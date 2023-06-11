@@ -1,0 +1,1357 @@
+Match Number,Round Number,Date,Home Team,Away Team,Result
+21152,4,2008-04-19T00:00:00.000Z,Houston Rockets,Utah Jazz,-11
+21153,4,2008-04-20T00:00:00.000Z,Detroit Pistons,Philadelphia 76ers,-4
+21154,4,2008-04-21T00:00:00.000Z,Cleveland Cavaliers,Washington Wizards,30
+21155,4,2008-04-22T00:00:00.000Z,San Antonio Spurs,Phoenix Suns,6
+21156,4,2008-04-23T00:00:00.000Z,Detroit Pistons,Philadelphia 76ers,17
+21157,4,2008-04-24T00:00:00.000Z,Utah Jazz,Houston Rockets,-2
+21158,4,2008-04-25T00:00:00.000Z,Dallas Mavericks,New Orleans Pelicans,10
+21159,4,2008-04-26T00:00:00.000Z,Utah Jazz,Houston Rockets,4
+21160,4,2008-04-26T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,-18
+21161,4,2008-04-27T00:00:00.000Z,Philadelphia 76ers,Detroit Pistons,-9
+21162,4,2008-04-29T00:00:00.000Z,Houston Rockets,Utah Jazz,26
+21163,4,2008-05-02T00:00:00.000Z,Washington Wizards,Cleveland Cavaliers,-17
+21164,4,2008-05-03T00:00:00.000Z,Detroit Pistons,Orlando Magic,19
+21165,4,2008-05-04T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,11
+21166,4,2008-05-05T00:00:00.000Z,New Orleans Pelicans,San Antonio Spurs,18
+21167,4,2008-05-07T00:00:00.000Z,Orlando Magic,Detroit Pistons,25
+21168,4,2008-05-08T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,16
+21331,4,2008-04-19T00:00:00.000Z,Cleveland Cavaliers,Washington Wizards,7
+21332,4,2008-04-20T00:00:00.000Z,Boston Celtics,Atlanta Hawks,23
+21333,4,2008-04-21T00:00:00.000Z,Houston Rockets,Utah Jazz,-6
+21334,4,2008-04-22T00:00:00.000Z,Orlando Magic,Toronto Raptors,1
+21335,4,2008-04-23T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,15
+21336,4,2008-04-24T00:00:00.000Z,Toronto Raptors,Orlando Magic,14
+21337,4,2008-04-25T00:00:00.000Z,Philadelphia 76ers,Detroit Pistons,20
+21338,4,2008-04-26T00:00:00.000Z,Atlanta Hawks,Boston Celtics,9
+21339,4,2008-04-27T00:00:00.000Z,Washington Wizards,Cleveland Cavaliers,-3
+21340,4,2008-04-28T00:00:00.000Z,Orlando Magic,Toronto Raptors,10
+21341,4,2008-04-29T00:00:00.000Z,Detroit Pistons,Philadelphia 76ers,17
+21435,4,2008-04-27T00:00:00.000Z,Dallas Mavericks,New Orleans Pelicans,-13
+21436,4,2008-04-28T00:00:00.000Z,Atlanta Hawks,Boston Celtics,5
+21437,4,2008-04-29T00:00:00.000Z,New Orleans Pelicans,Dallas Mavericks,5
+21438,4,2008-04-30T00:00:00.000Z,Boston Celtics,Atlanta Hawks,25
+21439,4,2008-05-01T00:00:00.000Z,Philadelphia 76ers,Detroit Pistons,-23
+21440,4,2008-05-02T00:00:00.000Z,Atlanta Hawks,Boston Celtics,3
+21441,4,2008-05-03T00:00:00.000Z,New Orleans Pelicans,San Antonio Spurs,19
+21442,4,2008-05-04T00:00:00.000Z,Boston Celtics,Atlanta Hawks,34
+21443,4,2008-05-05T00:00:00.000Z,Detroit Pistons,Orlando Magic,7
+21444,4,2008-05-06T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,4
+21445,4,2008-05-07T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,10
+21446,4,2008-05-08T00:00:00.000Z,San Antonio Spurs,New Orleans Pelicans,11
+21447,4,2008-05-09T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,5
+21448,4,2008-05-10T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,24
+21449,4,2008-05-11T00:00:00.000Z,San Antonio Spurs,New Orleans Pelicans,20
+21450,4,2008-05-13T00:00:00.000Z,New Orleans Pelicans,San Antonio Spurs,22
+21451,4,2008-05-14T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,7
+21452,4,2008-05-16T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,-3
+21453,4,2008-05-18T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,5
+21454,4,2008-05-19T00:00:00.000Z,New Orleans Pelicans,San Antonio Spurs,-9
+21455,4,2008-05-20T00:00:00.000Z,Boston Celtics,Detroit Pistons,9
+21456,4,2008-05-21T00:00:00.000Z,Los Angeles Lakers,San Antonio Spurs,4
+21457,4,2008-05-22T00:00:00.000Z,Boston Celtics,Detroit Pistons,-6
+21458,4,2008-05-23T00:00:00.000Z,Los Angeles Lakers,San Antonio Spurs,30
+21459,4,2008-05-24T00:00:00.000Z,Detroit Pistons,Boston Celtics,-14
+21460,4,2008-05-25T00:00:00.000Z,San Antonio Spurs,Los Angeles Lakers,19
+21461,4,2008-05-26T00:00:00.000Z,Detroit Pistons,Boston Celtics,19
+21462,4,2008-05-27T00:00:00.000Z,San Antonio Spurs,Los Angeles Lakers,-2
+21463,4,2008-05-28T00:00:00.000Z,Boston Celtics,Detroit Pistons,4
+21464,4,2008-05-29T00:00:00.000Z,Los Angeles Lakers,San Antonio Spurs,8
+21465,4,2008-05-30T00:00:00.000Z,Detroit Pistons,Boston Celtics,-8
+21466,4,2008-06-05T00:00:00.000Z,Boston Celtics,Los Angeles Lakers,10
+21467,4,2008-06-08T00:00:00.000Z,Boston Celtics,Los Angeles Lakers,6
+21468,4,2008-06-10T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,6
+21469,4,2008-06-12T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,-6
+21470,4,2008-06-15T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,5
+21471,4,2008-06-17T00:00:00.000Z,Boston Celtics,Los Angeles Lakers,39
+21549,4,2008-05-10T00:00:00.000Z,Orlando Magic,Detroit Pistons,-1
+21550,4,2008-05-11T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,8
+21551,4,2008-05-12T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,11
+21552,4,2008-05-13T00:00:00.000Z,Detroit Pistons,Orlando Magic,5
+21553,4,2008-05-14T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,7
+21554,4,2008-05-15T00:00:00.000Z,San Antonio Spurs,New Orleans Pelicans,19
+21555,4,2008-05-16T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,5
+21906,4,2009-04-18T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,-8
+21907,4,2009-04-19T00:00:00.000Z,Orlando Magic,Philadelphia 76ers,-2
+21908,4,2009-04-20T00:00:00.000Z,Boston Celtics,Chicago Bulls,3
+21909,4,2009-04-21T00:00:00.000Z,Portland Trail Blazers,Houston Rockets,4
+21910,4,2009-04-22T00:00:00.000Z,Orlando Magic,Philadelphia 76ers,9
+21911,4,2009-04-23T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,2
+21912,4,2009-04-24T00:00:00.000Z,Detroit Pistons,Cleveland Cavaliers,-11
+22964,4,2008-04-19T00:00:00.000Z,New Orleans Pelicans,Dallas Mavericks,12
+22965,4,2008-04-20T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,14
+22966,4,2008-04-22T00:00:00.000Z,New Orleans Pelicans,Dallas Mavericks,24
+22967,4,2008-04-23T00:00:00.000Z,Boston Celtics,Atlanta Hawks,19
+22968,4,2008-04-24T00:00:00.000Z,Washington Wizards,Cleveland Cavaliers,36
+22969,4,2008-04-25T00:00:00.000Z,Phoenix Suns,San Antonio Spurs,-16
+22970,4,2008-04-26T00:00:00.000Z,Toronto Raptors,Orlando Magic,-12
+22971,4,2008-04-27T00:00:00.000Z,Phoenix Suns,San Antonio Spurs,19
+22972,4,2008-04-28T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,-6
+22973,4,2008-04-29T00:00:00.000Z,San Antonio Spurs,Phoenix Suns,5
+22974,4,2008-04-30T00:00:00.000Z,Cleveland Cavaliers,Washington Wizards,-1
+22975,4,2008-05-02T00:00:00.000Z,Utah Jazz,Houston Rockets,22
+23188,4,2008-04-19T00:00:00.000Z,San Antonio Spurs,Phoenix Suns,2
+23189,4,2008-04-20T00:00:00.000Z,Orlando Magic,Toronto Raptors,14
+23370,4,2009-04-18T00:00:00.000Z,Boston Celtics,Chicago Bulls,-2
+23371,4,2009-04-19T00:00:00.000Z,Denver Nuggets,New Orleans Pelicans,29
+23372,4,2009-04-21T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,10
+23373,4,2009-04-22T00:00:00.000Z,Atlanta Hawks,Miami Heat,-15
+23374,4,2009-04-23T00:00:00.000Z,Chicago Bulls,Boston Celtics,-21
+23375,4,2009-04-24T00:00:00.000Z,Houston Rockets,Portland Trail Blazers,3
+23376,4,2009-04-25T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,9
+23377,4,2009-04-25T00:00:00.000Z,Miami Heat,Atlanta Hawks,29
+23378,4,2009-04-26T00:00:00.000Z,Philadelphia 76ers,Orlando Magic,-3
+23379,4,2009-04-26T00:00:00.000Z,Houston Rockets,Portland Trail Blazers,1
+23380,4,2009-04-27T00:00:00.000Z,New Orleans Pelicans,Denver Nuggets,-58
+23381,4,2009-04-27T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,11
+23382,4,2009-04-28T00:00:00.000Z,Orlando Magic,Philadelphia 76ers,13
+23383,4,2009-04-28T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,-13
+23384,4,2009-04-29T00:00:00.000Z,Atlanta Hawks,Miami Heat,15
+23385,4,2009-04-30T00:00:00.000Z,Philadelphia 76ers,Orlando Magic,-25
+23386,4,2009-04-30T00:00:00.000Z,Houston Rockets,Portland Trail Blazers,16
+23387,4,2009-05-01T00:00:00.000Z,Miami Heat,Atlanta Hawks,26
+23388,4,2009-05-02T00:00:00.000Z,Boston Celtics,Chicago Bulls,10
+23389,4,2009-05-03T00:00:00.000Z,Atlanta Hawks,Miami Heat,13
+23390,4,2009-05-03T00:00:00.000Z,Denver Nuggets,Dallas Mavericks,14
+23391,4,2009-05-04T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,-8
+23392,4,2009-05-04T00:00:00.000Z,Boston Celtics,Orlando Magic,-5
+23393,4,2009-05-05T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,27
+23394,4,2009-05-05T00:00:00.000Z,Denver Nuggets,Dallas Mavericks,12
+23395,4,2009-05-06T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,13
+23396,4,2009-05-06T00:00:00.000Z,Boston Celtics,Orlando Magic,18
+23397,4,2009-05-07T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,20
+23398,4,2009-05-08T00:00:00.000Z,Houston Rockets,Los Angeles Lakers,-14
+23399,4,2009-05-08T00:00:00.000Z,Orlando Magic,Boston Celtics,21
+23400,4,2009-05-09T00:00:00.000Z,Dallas Mavericks,Denver Nuggets,-1
+23401,4,2009-05-09T00:00:00.000Z,Atlanta Hawks,Cleveland Cavaliers,-15
+23402,4,2009-05-10T00:00:00.000Z,Houston Rockets,Los Angeles Lakers,12
+23403,4,2009-05-10T00:00:00.000Z,Orlando Magic,Boston Celtics,-1
+23404,4,2009-05-11T00:00:00.000Z,Dallas Mavericks,Denver Nuggets,2
+23405,4,2009-05-11T00:00:00.000Z,Atlanta Hawks,Cleveland Cavaliers,-10
+23406,4,2009-05-12T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,40
+23407,4,2009-05-12T00:00:00.000Z,Boston Celtics,Orlando Magic,4
+23473,4,2009-04-18T00:00:00.000Z,Cleveland Cavaliers,Detroit Pistons,18
+23474,4,2009-04-19T00:00:00.000Z,Atlanta Hawks,Miami Heat,26
+23475,4,2009-04-20T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,21
+23476,4,2009-04-21T00:00:00.000Z,Cleveland Cavaliers,Detroit Pistons,12
+23477,4,2009-04-22T00:00:00.000Z,Denver Nuggets,New Orleans Pelicans,15
+23478,4,2009-04-23T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,21
+23479,4,2009-04-24T00:00:00.000Z,Philadelphia 76ers,Orlando Magic,2
+23480,4,2009-04-25T00:00:00.000Z,New Orleans Pelicans,Denver Nuggets,2
+23481,4,2009-04-25T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,-14
+23482,4,2009-04-26T00:00:00.000Z,Detroit Pistons,Cleveland Cavaliers,-21
+23483,4,2009-04-26T00:00:00.000Z,Chicago Bulls,Boston Celtics,3
+23484,4,2009-04-27T00:00:00.000Z,Miami Heat,Atlanta Hawks,-10
+23485,4,2009-04-28T00:00:00.000Z,Boston Celtics,Chicago Bulls,2
+23486,4,2009-04-28T00:00:00.000Z,Portland Trail Blazers,Houston Rockets,11
+23487,4,2009-04-29T00:00:00.000Z,Denver Nuggets,New Orleans Pelicans,21
+23488,4,2009-04-30T00:00:00.000Z,Chicago Bulls,Boston Celtics,1
+23489,4,2009-05-14T00:00:00.000Z,Orlando Magic,Boston Celtics,8
+23490,4,2009-05-17T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,19
+23926,4,2009-04-18T00:00:00.000Z,Portland Trail Blazers,Houston Rockets,-27
+23927,4,2009-04-19T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,13
+23928,4,2009-05-13T00:00:00.000Z,Denver Nuggets,Dallas Mavericks,14
+23929,4,2009-05-14T00:00:00.000Z,Houston Rockets,Los Angeles Lakers,15
+23930,4,2009-05-17T00:00:00.000Z,Boston Celtics,Orlando Magic,-19
+23931,4,2009-05-19T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,2
+23932,4,2009-05-20T00:00:00.000Z,Cleveland Cavaliers,Orlando Magic,-1
+23933,4,2009-05-21T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,-3
+23934,4,2009-05-22T00:00:00.000Z,Cleveland Cavaliers,Orlando Magic,1
+23935,4,2009-05-23T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,-6
+23936,4,2009-05-24T00:00:00.000Z,Orlando Magic,Cleveland Cavaliers,10
+23937,4,2009-05-25T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,19
+23938,4,2009-05-26T00:00:00.000Z,Orlando Magic,Cleveland Cavaliers,2
+23939,4,2009-05-27T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,9
+23940,4,2009-05-28T00:00:00.000Z,Cleveland Cavaliers,Orlando Magic,10
+23941,4,2009-05-29T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,-27
+23942,4,2009-05-30T00:00:00.000Z,Orlando Magic,Cleveland Cavaliers,13
+23943,4,2009-06-04T00:00:00.000Z,Los Angeles Lakers,Orlando Magic,25
+23944,4,2009-06-07T00:00:00.000Z,Los Angeles Lakers,Orlando Magic,5
+23945,4,2009-06-09T00:00:00.000Z,Orlando Magic,Los Angeles Lakers,4
+23946,4,2009-06-11T00:00:00.000Z,Orlando Magic,Los Angeles Lakers,-8
+23947,4,2009-06-14T00:00:00.000Z,Orlando Magic,Los Angeles Lakers,-13
+24778,4,2011-04-16T00:00:00.000Z,Miami Heat,Philadelphia 76ers,8
+24779,4,2011-04-17T00:00:00.000Z,Oklahoma City Thunder,Denver Nuggets,4
+24780,4,2011-04-18T00:00:00.000Z,Miami Heat,Philadelphia 76ers,21
+24781,4,2011-04-19T00:00:00.000Z,Orlando Magic,Atlanta Hawks,6
+24782,4,2011-04-20T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,6
+24783,4,2011-04-21T00:00:00.000Z,Indiana Pacers,Chicago Bulls,-4
+24784,4,2011-04-22T00:00:00.000Z,New Orleans Pelicans,Los Angeles Lakers,-14
+24785,4,2011-04-23T00:00:00.000Z,Portland Trail Blazers,Dallas Mavericks,2
+24786,4,2011-04-24T00:00:00.000Z,Atlanta Hawks,Orlando Magic,3
+24787,4,2011-04-25T00:00:00.000Z,Denver Nuggets,Oklahoma City Thunder,3
+24788,4,2011-04-26T00:00:00.000Z,Chicago Bulls,Indiana Pacers,27
+24789,4,2011-04-27T00:00:00.000Z,Oklahoma City Thunder,Denver Nuggets,3
+24790,4,2011-04-28T00:00:00.000Z,New Orleans Pelicans,Los Angeles Lakers,-18
+25073,4,2011-04-16T00:00:00.000Z,Orlando Magic,Atlanta Hawks,-10
+25074,4,2011-04-17T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,-3
+25075,4,2011-04-19T00:00:00.000Z,Dallas Mavericks,Portland Trail Blazers,12
+25076,4,2011-04-20T00:00:00.000Z,Oklahoma City Thunder,Denver Nuggets,17
+25077,4,2011-04-21T00:00:00.000Z,Portland Trail Blazers,Dallas Mavericks,5
+25078,4,2011-04-22T00:00:00.000Z,New York Knicks,Boston Celtics,-17
+25079,4,2011-04-23T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,3
+25080,4,2011-04-24T00:00:00.000Z,New Orleans Pelicans,Los Angeles Lakers,5
+25081,4,2011-04-25T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,18
+25082,4,2011-04-26T00:00:00.000Z,Los Angeles Lakers,New Orleans Pelicans,16
+25083,4,2011-04-27T00:00:00.000Z,Miami Heat,Philadelphia 76ers,6
+25084,4,2011-04-28T00:00:00.000Z,Portland Trail Blazers,Dallas Mavericks,-7
+25085,4,2011-05-01T00:00:00.000Z,Miami Heat,Boston Celtics,9
+25086,4,2011-05-02T00:00:00.000Z,Chicago Bulls,Atlanta Hawks,-8
+25087,4,2011-05-03T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,9
+25088,4,2011-05-04T00:00:00.000Z,Chicago Bulls,Atlanta Hawks,13
+25089,4,2011-05-06T00:00:00.000Z,Dallas Mavericks,Los Angeles Lakers,6
+25090,4,2011-05-07T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,8
+25317,4,2010-04-17T00:00:00.000Z,Denver Nuggets,Utah Jazz,13
+25318,4,2010-04-18T00:00:00.000Z,Orlando Magic,Charlotte Hornets,9
+25319,4,2010-04-20T00:00:00.000Z,Los Angeles Lakers,Oklahoma City Thunder,3
+25320,4,2010-04-21T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,-14
+25321,4,2010-04-22T00:00:00.000Z,Chicago Bulls,Cleveland Cavaliers,2
+25322,4,2010-04-23T00:00:00.000Z,Utah Jazz,Denver Nuggets,12
+25323,4,2010-04-24T00:00:00.000Z,Charlotte Hornets,Orlando Magic,-4
+25324,4,2010-04-24T00:00:00.000Z,Oklahoma City Thunder,Los Angeles Lakers,21
+25325,4,2010-04-25T00:00:00.000Z,Chicago Bulls,Cleveland Cavaliers,-23
+25326,4,2010-04-27T00:00:00.000Z,Los Angeles Lakers,Oklahoma City Thunder,24
+25327,4,2010-04-28T00:00:00.000Z,Denver Nuggets,Utah Jazz,14
+25328,4,2010-04-29T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,10
+25329,4,2010-04-30T00:00:00.000Z,Oklahoma City Thunder,Los Angeles Lakers,-1
+25448,4,2011-04-16T00:00:00.000Z,Chicago Bulls,Indiana Pacers,5
+25449,4,2011-04-17T00:00:00.000Z,Los Angeles Lakers,New Orleans Pelicans,-9
+25942,4,2010-04-17T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,10
+25943,4,2010-04-18T00:00:00.000Z,Phoenix Suns,Portland Trail Blazers,-5
+25944,4,2010-04-19T00:00:00.000Z,Cleveland Cavaliers,Chicago Bulls,10
+25945,4,2010-04-20T00:00:00.000Z,Boston Celtics,Miami Heat,29
+25994,4,2011-04-16T00:00:00.000Z,Dallas Mavericks,Portland Trail Blazers,8
+25995,4,2011-04-17T00:00:00.000Z,Boston Celtics,New York Knicks,2
+25996,4,2011-04-18T00:00:00.000Z,Chicago Bulls,Indiana Pacers,6
+25997,4,2011-04-19T00:00:00.000Z,Boston Celtics,New York Knicks,3
+25998,4,2011-04-20T00:00:00.000Z,Los Angeles Lakers,New Orleans Pelicans,9
+25999,4,2011-04-21T00:00:00.000Z,Philadelphia 76ers,Miami Heat,-6
+26000,4,2011-04-22T00:00:00.000Z,Atlanta Hawks,Orlando Magic,4
+26001,4,2011-04-23T00:00:00.000Z,Indiana Pacers,Chicago Bulls,5
+26002,4,2011-04-23T00:00:00.000Z,Denver Nuggets,Oklahoma City Thunder,-3
+26003,4,2011-04-24T00:00:00.000Z,New York Knicks,Boston Celtics,-12
+26283,4,2011-04-24T00:00:00.000Z,Philadelphia 76ers,Miami Heat,4
+26284,4,2011-04-25T00:00:00.000Z,Dallas Mavericks,Portland Trail Blazers,11
+26285,4,2011-04-26T00:00:00.000Z,Orlando Magic,Atlanta Hawks,25
+26286,4,2011-04-27T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,7
+26287,4,2011-04-28T00:00:00.000Z,Atlanta Hawks,Orlando Magic,3
+26288,4,2011-04-29T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,8
+26289,4,2011-05-01T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,-13
+26290,4,2011-05-02T00:00:00.000Z,Los Angeles Lakers,Dallas Mavericks,-2
+26291,4,2011-05-03T00:00:00.000Z,Miami Heat,Boston Celtics,11
+26292,4,2011-05-04T00:00:00.000Z,Los Angeles Lakers,Dallas Mavericks,-12
+26293,4,2011-05-06T00:00:00.000Z,Atlanta Hawks,Chicago Bulls,-17
+26294,4,2011-05-07T00:00:00.000Z,Boston Celtics,Miami Heat,16
+26295,4,2011-05-08T00:00:00.000Z,Dallas Mavericks,Los Angeles Lakers,36
+26296,4,2011-05-09T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,-10
+26297,4,2011-05-10T00:00:00.000Z,Chicago Bulls,Atlanta Hawks,12
+26298,4,2011-05-11T00:00:00.000Z,Miami Heat,Boston Celtics,10
+26299,4,2011-05-15T00:00:00.000Z,Chicago Bulls,Miami Heat,21
+26422,4,2011-05-08T00:00:00.000Z,Atlanta Hawks,Chicago Bulls,12
+26423,4,2011-05-09T00:00:00.000Z,Boston Celtics,Miami Heat,-8
+26424,4,2011-05-11T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,27
+26425,4,2011-05-12T00:00:00.000Z,Atlanta Hawks,Chicago Bulls,-20
+26426,4,2011-05-13T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,12
+26427,4,2011-05-15T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,15
+26428,4,2011-05-17T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,9
+26429,4,2011-05-18T00:00:00.000Z,Chicago Bulls,Miami Heat,-10
+26430,4,2011-05-19T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,-6
+26431,4,2011-05-21T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,-6
+26432,4,2011-05-22T00:00:00.000Z,Miami Heat,Chicago Bulls,11
+26433,4,2011-05-23T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,-7
+26434,4,2011-05-24T00:00:00.000Z,Miami Heat,Chicago Bulls,8
+26435,4,2011-05-25T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,4
+26436,4,2011-05-26T00:00:00.000Z,Chicago Bulls,Miami Heat,-3
+26437,4,2011-05-31T00:00:00.000Z,Miami Heat,Dallas Mavericks,8
+26438,4,2011-06-02T00:00:00.000Z,Miami Heat,Dallas Mavericks,-2
+26439,4,2011-06-05T00:00:00.000Z,Dallas Mavericks,Miami Heat,-2
+26440,4,2011-06-07T00:00:00.000Z,Dallas Mavericks,Miami Heat,3
+26441,4,2011-06-09T00:00:00.000Z,Dallas Mavericks,Miami Heat,9
+26442,4,2011-06-12T00:00:00.000Z,Miami Heat,Dallas Mavericks,-10
+26513,4,2010-04-17T00:00:00.000Z,Boston Celtics,Miami Heat,9
+26514,4,2010-04-18T00:00:00.000Z,Los Angeles Lakers,Oklahoma City Thunder,8
+26515,4,2010-04-19T00:00:00.000Z,Denver Nuggets,Utah Jazz,-3
+26516,4,2010-04-20T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,10
+26517,4,2010-04-22T00:00:00.000Z,Portland Trail Blazers,Phoenix Suns,-19
+26518,4,2010-04-23T00:00:00.000Z,Miami Heat,Boston Celtics,-2
+26519,4,2010-04-24T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,18
+26520,4,2010-04-25T00:00:00.000Z,Utah Jazz,Denver Nuggets,11
+26521,4,2010-04-26T00:00:00.000Z,Charlotte Hornets,Orlando Magic,-9
+26522,4,2010-04-27T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,22
+26523,4,2010-04-28T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,-4
+26524,4,2010-04-29T00:00:00.000Z,Portland Trail Blazers,Phoenix Suns,-9
+26525,4,2010-04-30T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,-14
+26526,4,2010-05-02T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,21
+26527,4,2010-05-03T00:00:00.000Z,Phoenix Suns,San Antonio Spurs,9
+26528,4,2010-05-04T00:00:00.000Z,Orlando Magic,Atlanta Hawks,43
+26529,4,2010-05-05T00:00:00.000Z,Phoenix Suns,San Antonio Spurs,8
+26530,4,2010-05-07T00:00:00.000Z,San Antonio Spurs,Phoenix Suns,-14
+26531,4,2010-05-08T00:00:00.000Z,Atlanta Hawks,Orlando Magic,-30
+26532,4,2010-05-09T00:00:00.000Z,San Antonio Spurs,Phoenix Suns,-6
+26533,4,2010-05-10T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,-15
+26534,4,2010-05-11T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,-32
+26535,4,2010-05-13T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,9
+26536,4,2010-05-16T00:00:00.000Z,Orlando Magic,Boston Celtics,-4
+26537,4,2010-05-17T00:00:00.000Z,Los Angeles Lakers,Phoenix Suns,21
+26538,4,2010-05-18T00:00:00.000Z,Orlando Magic,Boston Celtics,-3
+26539,4,2010-05-19T00:00:00.000Z,Los Angeles Lakers,Phoenix Suns,12
+26540,4,2010-05-22T00:00:00.000Z,Boston Celtics,Orlando Magic,23
+26541,4,2010-05-24T00:00:00.000Z,Boston Celtics,Orlando Magic,-4
+26542,4,2010-05-25T00:00:00.000Z,Phoenix Suns,Los Angeles Lakers,9
+26543,4,2010-05-26T00:00:00.000Z,Orlando Magic,Boston Celtics,21
+26544,4,2010-05-27T00:00:00.000Z,Los Angeles Lakers,Phoenix Suns,2
+26545,4,2010-05-29T00:00:00.000Z,Phoenix Suns,Los Angeles Lakers,-8
+26546,4,2010-06-03T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,13
+26547,4,2010-06-06T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,-9
+26548,4,2010-06-08T00:00:00.000Z,Boston Celtics,Los Angeles Lakers,-7
+26549,4,2010-06-10T00:00:00.000Z,Boston Celtics,Los Angeles Lakers,7
+26550,4,2010-06-13T00:00:00.000Z,Boston Celtics,Los Angeles Lakers,6
+26551,4,2010-06-15T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,22
+26552,4,2010-06-17T00:00:00.000Z,Los Angeles Lakers,Boston Celtics,4
+26868,4,2010-04-17T00:00:00.000Z,Cleveland Cavaliers,Chicago Bulls,13
+26869,4,2010-04-18T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,6
+26870,4,2010-04-20T00:00:00.000Z,Phoenix Suns,Portland Trail Blazers,29
+26871,4,2010-04-21T00:00:00.000Z,Orlando Magic,Charlotte Hornets,15
+26872,4,2010-04-22T00:00:00.000Z,Oklahoma City Thunder,Los Angeles Lakers,5
+26873,4,2010-04-23T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,4
+26874,4,2010-04-24T00:00:00.000Z,Portland Trail Blazers,Phoenix Suns,9
+26875,4,2010-04-25T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,3
+26876,4,2010-04-26T00:00:00.000Z,Phoenix Suns,Portland Trail Blazers,19
+26877,4,2010-04-27T00:00:00.000Z,Boston Celtics,Miami Heat,10
+27003,4,2010-04-25T00:00:00.000Z,Miami Heat,Boston Celtics,9
+27004,4,2010-04-26T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,7
+27005,4,2010-04-27T00:00:00.000Z,Cleveland Cavaliers,Chicago Bulls,2
+27006,4,2010-04-30T00:00:00.000Z,Utah Jazz,Denver Nuggets,8
+27007,4,2010-05-01T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,8
+27008,4,2010-05-02T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,5
+27009,4,2010-05-03T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,-18
+27010,4,2010-05-04T00:00:00.000Z,Los Angeles Lakers,Utah Jazz,8
+27011,4,2010-05-06T00:00:00.000Z,Orlando Magic,Atlanta Hawks,14
+27012,4,2010-05-07T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-29
+27013,4,2010-05-08T00:00:00.000Z,Utah Jazz,Los Angeles Lakers,-1
+27014,4,2010-05-09T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,10
+27015,4,2010-05-10T00:00:00.000Z,Atlanta Hawks,Orlando Magic,-14
+27016,4,2010-05-23T00:00:00.000Z,Phoenix Suns,Los Angeles Lakers,9
+27017,4,2010-05-28T00:00:00.000Z,Boston Celtics,Orlando Magic,12
+27298,4,2015-04-18T00:00:00.000Z,Houston Rockets,Dallas Mavericks,10
+27299,4,2015-04-19T00:00:00.000Z,Atlanta Hawks,Brooklyn Nets,7
+27541,4,2015-04-26T00:00:00.000Z,San Antonio Spurs,LA Clippers,-9
+27542,4,2015-04-27T00:00:00.000Z,Brooklyn Nets,Atlanta Hawks,5
+27678,4,2015-06-09T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,5
+27679,4,2015-06-11T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,-21
+27680,4,2015-06-14T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,13
+27681,4,2015-06-16T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,-8
+29096,4,2012-04-28T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,1
+29097,4,2012-04-29T00:00:00.000Z,Atlanta Hawks,Boston Celtics,9
+29098,4,2012-04-30T00:00:00.000Z,Miami Heat,New York Knicks,10
+29099,4,2012-05-01T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,4
+29100,4,2012-05-02T00:00:00.000Z,San Antonio Spurs,Utah Jazz,31
+29101,4,2012-05-04T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,15
+29102,4,2012-05-05T00:00:00.000Z,LA Clippers,Memphis Grizzlies,1
+29103,4,2012-05-06T00:00:00.000Z,Boston Celtics,Atlanta Hawks,22
+29104,4,2012-05-07T00:00:00.000Z,LA Clippers,Memphis Grizzlies,4
+29105,4,2012-05-08T00:00:00.000Z,Chicago Bulls,Philadelphia 76ers,8
+29150,4,2013-04-20T00:00:00.000Z,LA Clippers,Memphis Grizzlies,21
+29151,4,2013-04-21T00:00:00.000Z,San Antonio Spurs,Los Angeles Lakers,12
+29152,4,2013-04-23T00:00:00.000Z,Denver Nuggets,Golden State Warriors,-14
+29153,4,2013-04-24T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,15
+29154,4,2013-04-25T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-13
+29155,4,2013-04-26T00:00:00.000Z,Golden State Warriors,Denver Nuggets,2
+29156,4,2013-04-27T00:00:00.000Z,Chicago Bulls,Brooklyn Nets,8
+29157,4,2013-04-27T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,-3
+29158,4,2013-04-28T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-11
+29540,4,2013-04-20T00:00:00.000Z,Denver Nuggets,Golden State Warriors,2
+29541,4,2013-04-21T00:00:00.000Z,Miami Heat,Milwaukee Bucks,23
+29542,4,2013-04-22T00:00:00.000Z,LA Clippers,Memphis Grizzlies,2
+29543,4,2013-04-23T00:00:00.000Z,Miami Heat,Milwaukee Bucks,12
+29544,4,2013-04-24T00:00:00.000Z,San Antonio Spurs,Los Angeles Lakers,11
+29545,4,2013-04-25T00:00:00.000Z,Chicago Bulls,Brooklyn Nets,3
+29546,4,2013-04-26T00:00:00.000Z,Boston Celtics,New York Knicks,-14
+29547,4,2013-04-27T00:00:00.000Z,Atlanta Hawks,Indiana Pacers,21
+29548,4,2013-04-28T00:00:00.000Z,Los Angeles Lakers,San Antonio Spurs,-21
+29549,4,2013-04-29T00:00:00.000Z,Atlanta Hawks,Indiana Pacers,11
+29550,4,2013-05-01T00:00:00.000Z,New York Knicks,Boston Celtics,-6
+29551,4,2013-05-03T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,-9
+29552,4,2013-05-07T00:00:00.000Z,New York Knicks,Indiana Pacers,26
+29553,4,2013-05-08T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,-9
+29554,4,2013-05-10T00:00:00.000Z,Chicago Bulls,Miami Heat,-10
+29555,4,2013-05-11T00:00:00.000Z,Indiana Pacers,New York Knicks,11
+29556,4,2013-05-12T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,10
+29557,4,2013-05-13T00:00:00.000Z,Chicago Bulls,Miami Heat,-23
+29558,4,2013-05-14T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,18
+29559,4,2013-05-15T00:00:00.000Z,Miami Heat,Chicago Bulls,3
+29560,4,2013-05-16T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,-12
+29561,4,2013-05-18T00:00:00.000Z,Indiana Pacers,New York Knicks,7
+29562,4,2013-05-19T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,22
+29563,4,2013-05-21T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,4
+29564,4,2013-05-22T00:00:00.000Z,Miami Heat,Indiana Pacers,1
+29565,4,2013-05-24T00:00:00.000Z,Miami Heat,Indiana Pacers,-4
+29566,4,2013-05-25T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,-11
+29567,4,2013-05-26T00:00:00.000Z,Indiana Pacers,Miami Heat,-18
+29568,4,2013-05-27T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,-7
+29569,4,2013-05-28T00:00:00.000Z,Indiana Pacers,Miami Heat,7
+29570,4,2013-05-30T00:00:00.000Z,Miami Heat,Indiana Pacers,11
+29571,4,2013-06-01T00:00:00.000Z,Indiana Pacers,Miami Heat,14
+29572,4,2013-06-03T00:00:00.000Z,Miami Heat,Indiana Pacers,23
+29573,4,2013-06-06T00:00:00.000Z,Miami Heat,San Antonio Spurs,-4
+29574,4,2013-06-09T00:00:00.000Z,Miami Heat,San Antonio Spurs,19
+29575,4,2013-06-11T00:00:00.000Z,San Antonio Spurs,Miami Heat,36
+29576,4,2013-06-13T00:00:00.000Z,San Antonio Spurs,Miami Heat,-16
+29577,4,2013-06-16T00:00:00.000Z,San Antonio Spurs,Miami Heat,10
+29578,4,2013-06-18T00:00:00.000Z,Miami Heat,San Antonio Spurs,3
+29579,4,2013-06-20T00:00:00.000Z,Miami Heat,San Antonio Spurs,7
+29665,4,2013-04-20T00:00:00.000Z,Brooklyn Nets,Chicago Bulls,17
+29666,4,2013-04-21T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,17
+29718,4,2015-04-18T00:00:00.000Z,Golden State Warriors,New Orleans Pelicans,7
+29719,4,2015-04-19T00:00:00.000Z,Memphis Grizzlies,Portland Trail Blazers,14
+29720,4,2015-04-21T00:00:00.000Z,Houston Rockets,Dallas Mavericks,12
+29721,4,2015-04-22T00:00:00.000Z,Atlanta Hawks,Brooklyn Nets,5
+29722,4,2015-04-23T00:00:00.000Z,New Orleans Pelicans,Golden State Warriors,-4
+29723,4,2015-04-24T00:00:00.000Z,Washington Wizards,Toronto Raptors,7
+29724,4,2015-04-25T00:00:00.000Z,Milwaukee Bucks,Chicago Bulls,2
+29725,4,2015-04-26T00:00:00.000Z,Dallas Mavericks,Houston Rockets,12
+29726,4,2015-04-27T00:00:00.000Z,Portland Trail Blazers,Memphis Grizzlies,7
+29727,4,2015-04-28T00:00:00.000Z,LA Clippers,San Antonio Spurs,-4
+29728,4,2015-04-29T00:00:00.000Z,Atlanta Hawks,Brooklyn Nets,10
+29729,4,2015-04-30T00:00:00.000Z,San Antonio Spurs,LA Clippers,-6
+29730,4,2015-05-01T00:00:00.000Z,Brooklyn Nets,Atlanta Hawks,-24
+29731,4,2015-05-02T00:00:00.000Z,LA Clippers,San Antonio Spurs,2
+29732,4,2015-05-03T00:00:00.000Z,Atlanta Hawks,Washington Wizards,-6
+29733,4,2015-05-04T00:00:00.000Z,Houston Rockets,LA Clippers,-16
+29734,4,2015-05-05T00:00:00.000Z,Atlanta Hawks,Washington Wizards,16
+29735,4,2015-05-06T00:00:00.000Z,Houston Rockets,LA Clippers,6
+29736,4,2015-05-08T00:00:00.000Z,Chicago Bulls,Cleveland Cavaliers,3
+29737,4,2015-05-09T00:00:00.000Z,Memphis Grizzlies,Golden State Warriors,10
+29738,4,2015-05-10T00:00:00.000Z,Chicago Bulls,Cleveland Cavaliers,-2
+29739,4,2015-05-11T00:00:00.000Z,Memphis Grizzlies,Golden State Warriors,-17
+29740,4,2015-05-12T00:00:00.000Z,Cleveland Cavaliers,Chicago Bulls,5
+29741,4,2015-05-13T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,20
+29742,4,2015-05-14T00:00:00.000Z,Chicago Bulls,Cleveland Cavaliers,-21
+29743,4,2015-05-15T00:00:00.000Z,Memphis Grizzlies,Golden State Warriors,-13
+29744,4,2015-05-17T00:00:00.000Z,Houston Rockets,LA Clippers,13
+29745,4,2015-05-19T00:00:00.000Z,Golden State Warriors,Houston Rockets,4
+29746,4,2015-05-20T00:00:00.000Z,Atlanta Hawks,Cleveland Cavaliers,-8
+29747,4,2015-05-21T00:00:00.000Z,Golden State Warriors,Houston Rockets,1
+29748,4,2015-05-22T00:00:00.000Z,Atlanta Hawks,Cleveland Cavaliers,-12
+29749,4,2015-05-23T00:00:00.000Z,Houston Rockets,Golden State Warriors,-35
+29750,4,2015-05-24T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,3
+29751,4,2015-05-25T00:00:00.000Z,Houston Rockets,Golden State Warriors,13
+29752,4,2015-05-26T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,30
+29753,4,2015-05-27T00:00:00.000Z,Golden State Warriors,Houston Rockets,14
+29754,4,2015-06-04T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,8
+29755,4,2015-06-07T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,-2
+29772,4,2012-04-28T00:00:00.000Z,Indiana Pacers,Orlando Magic,-4
+29773,4,2012-04-29T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,15
+29790,4,2013-04-20T00:00:00.000Z,New York Knicks,Boston Celtics,7
+29791,4,2013-04-21T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,29
+29792,4,2013-04-22T00:00:00.000Z,Brooklyn Nets,Chicago Bulls,-8
+29793,4,2013-04-23T00:00:00.000Z,New York Knicks,Boston Celtics,16
+29794,4,2013-04-24T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,3
+29795,4,2013-04-25T00:00:00.000Z,Memphis Grizzlies,LA Clippers,12
+29796,4,2013-04-26T00:00:00.000Z,Los Angeles Lakers,San Antonio Spurs,-31
+29797,4,2013-04-27T00:00:00.000Z,Memphis Grizzlies,LA Clippers,21
+29798,4,2013-04-28T00:00:00.000Z,Golden State Warriors,Denver Nuggets,14
+29799,4,2013-04-29T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,2
+29800,4,2013-04-30T00:00:00.000Z,LA Clippers,Memphis Grizzlies,-10
+29801,4,2013-05-01T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,23
+29802,4,2013-05-02T00:00:00.000Z,Chicago Bulls,Brooklyn Nets,-3
+29803,4,2013-05-03T00:00:00.000Z,Atlanta Hawks,Indiana Pacers,-8
+29804,4,2013-05-03T00:00:00.000Z,Memphis Grizzlies,LA Clippers,13
+29805,4,2013-05-05T00:00:00.000Z,New York Knicks,Indiana Pacers,-7
+29806,4,2013-05-06T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,2
+30047,4,2012-04-28T00:00:00.000Z,Chicago Bulls,Philadelphia 76ers,12
+30048,4,2012-04-29T00:00:00.000Z,Memphis Grizzlies,LA Clippers,-1
+30049,4,2012-04-30T00:00:00.000Z,Indiana Pacers,Orlando Magic,15
+30050,4,2012-05-01T00:00:00.000Z,Atlanta Hawks,Boston Celtics,-7
+30051,4,2012-05-02T00:00:00.000Z,Memphis Grizzlies,LA Clippers,7
+30052,4,2012-05-03T00:00:00.000Z,New York Knicks,Miami Heat,-17
+30053,4,2012-05-04T00:00:00.000Z,Philadelphia 76ers,Chicago Bulls,5
+30054,4,2012-05-05T00:00:00.000Z,Orlando Magic,Indiana Pacers,-2
+30055,4,2012-05-05T00:00:00.000Z,Utah Jazz,San Antonio Spurs,-12
+30056,4,2012-05-06T00:00:00.000Z,New York Knicks,Miami Heat,2
+30057,4,2012-05-08T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,-3
+30058,4,2012-05-10T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,17
+30059,4,2012-05-12T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,9
+30060,4,2012-05-13T00:00:00.000Z,Miami Heat,Indiana Pacers,9
+30061,4,2012-05-14T00:00:00.000Z,Oklahoma City Thunder,Los Angeles Lakers,29
+30062,4,2012-05-15T00:00:00.000Z,Miami Heat,Indiana Pacers,-3
+30063,4,2012-05-16T00:00:00.000Z,Oklahoma City Thunder,Los Angeles Lakers,2
+30064,4,2012-05-17T00:00:00.000Z,Indiana Pacers,Miami Heat,19
+30065,4,2012-05-18T00:00:00.000Z,Los Angeles Lakers,Oklahoma City Thunder,3
+30066,4,2012-05-19T00:00:00.000Z,LA Clippers,San Antonio Spurs,-10
+30067,4,2012-05-20T00:00:00.000Z,LA Clippers,San Antonio Spurs,-3
+30068,4,2012-05-21T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,16
+30069,4,2012-06-03T00:00:00.000Z,Boston Celtics,Miami Heat,2
+30113,4,2013-04-28T00:00:00.000Z,Boston Celtics,New York Knicks,7
+30114,4,2013-04-29T00:00:00.000Z,Brooklyn Nets,Chicago Bulls,19
+30115,4,2013-04-30T00:00:00.000Z,Denver Nuggets,Golden State Warriors,7
+30116,4,2013-05-01T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,-7
+30117,4,2013-05-02T00:00:00.000Z,Golden State Warriors,Denver Nuggets,4
+30118,4,2013-05-03T00:00:00.000Z,Boston Celtics,New York Knicks,-8
+30119,4,2014-04-19T00:00:00.000Z,LA Clippers,Golden State Warriors,-4
+30120,4,2014-04-20T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,5
+30121,4,2014-04-21T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,-6
+30122,4,2014-04-22T00:00:00.000Z,Toronto Raptors,Brooklyn Nets,5
+30123,4,2014-04-23T00:00:00.000Z,Houston Rockets,Portland Trail Blazers,-7
+30124,4,2014-04-24T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,3
+30125,4,2014-04-25T00:00:00.000Z,Brooklyn Nets,Toronto Raptors,4
+30126,4,2014-04-26T00:00:00.000Z,Charlotte Hornets,Miami Heat,-13
+30127,4,2014-04-27T00:00:00.000Z,Brooklyn Nets,Toronto Raptors,-8
+30128,4,2014-04-28T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,-10
+30129,4,2014-04-29T00:00:00.000Z,LA Clippers,Golden State Warriors,10
+30130,4,2014-04-30T00:00:00.000Z,Toronto Raptors,Brooklyn Nets,2
+30131,4,2014-05-01T00:00:00.000Z,Golden State Warriors,LA Clippers,1
+30132,4,2014-05-02T00:00:00.000Z,Brooklyn Nets,Toronto Raptors,14
+30133,4,2014-05-03T00:00:00.000Z,LA Clippers,Golden State Warriors,5
+30134,4,2014-05-04T00:00:00.000Z,Toronto Raptors,Brooklyn Nets,-1
+30135,4,2014-05-05T00:00:00.000Z,Oklahoma City Thunder,LA Clippers,-17
+30136,4,2014-05-06T00:00:00.000Z,Miami Heat,Brooklyn Nets,21
+30137,4,2014-05-07T00:00:00.000Z,Oklahoma City Thunder,LA Clippers,11
+30138,4,2014-05-08T00:00:00.000Z,Miami Heat,Brooklyn Nets,12
+30139,4,2014-05-09T00:00:00.000Z,LA Clippers,Oklahoma City Thunder,-6
+30140,4,2014-05-10T00:00:00.000Z,Brooklyn Nets,Miami Heat,14
+30141,4,2014-05-11T00:00:00.000Z,Washington Wizards,Indiana Pacers,-3
+30142,4,2014-05-12T00:00:00.000Z,Brooklyn Nets,Miami Heat,-6
+30143,4,2014-05-13T00:00:00.000Z,Oklahoma City Thunder,LA Clippers,1
+30144,4,2014-05-14T00:00:00.000Z,San Antonio Spurs,Portland Trail Blazers,22
+30145,4,2014-05-15T00:00:00.000Z,LA Clippers,Oklahoma City Thunder,-6
+30146,4,2014-05-18T00:00:00.000Z,Indiana Pacers,Miami Heat,11
+30147,4,2014-05-19T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,17
+30148,4,2014-05-20T00:00:00.000Z,Indiana Pacers,Miami Heat,-4
+30149,4,2014-05-21T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,35
+30150,4,2014-05-24T00:00:00.000Z,Miami Heat,Indiana Pacers,12
+30151,4,2014-05-25T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,9
+30152,4,2014-05-26T00:00:00.000Z,Miami Heat,Indiana Pacers,12
+30153,4,2014-05-27T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,13
+30154,4,2014-05-28T00:00:00.000Z,Indiana Pacers,Miami Heat,3
+30155,4,2014-05-29T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,28
+30156,4,2014-05-30T00:00:00.000Z,Miami Heat,Indiana Pacers,25
+30157,4,2014-05-31T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,-5
+30158,4,2014-06-05T00:00:00.000Z,San Antonio Spurs,Miami Heat,15
+30159,4,2014-06-08T00:00:00.000Z,San Antonio Spurs,Miami Heat,-2
+30160,4,2014-06-10T00:00:00.000Z,Miami Heat,San Antonio Spurs,-19
+30161,4,2014-06-12T00:00:00.000Z,Miami Heat,San Antonio Spurs,-21
+30162,4,2014-06-15T00:00:00.000Z,San Antonio Spurs,Miami Heat,17
+30183,4,2013-05-04T00:00:00.000Z,Brooklyn Nets,Chicago Bulls,-6
+30184,4,2013-05-05T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,2
+30185,4,2013-05-06T00:00:00.000Z,Miami Heat,Chicago Bulls,-7
+30186,4,2013-05-07T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,-6
+30187,4,2013-05-08T00:00:00.000Z,Miami Heat,Chicago Bulls,37
+30188,4,2013-05-10T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,-10
+30189,4,2013-05-11T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,6
+30190,4,2013-05-13T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,6
+30191,4,2013-05-14T00:00:00.000Z,Indiana Pacers,New York Knicks,11
+30192,4,2013-05-15T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,-4
+30193,4,2013-05-16T00:00:00.000Z,New York Knicks,Indiana Pacers,10
+30268,4,2014-04-19T00:00:00.000Z,Toronto Raptors,Brooklyn Nets,-7
+30269,4,2014-04-20T00:00:00.000Z,Chicago Bulls,Washington Wizards,-9
+30270,4,2014-04-22T00:00:00.000Z,Chicago Bulls,Washington Wizards,-2
+30271,4,2014-04-23T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,-21
+30272,4,2014-04-24T00:00:00.000Z,Golden State Warriors,LA Clippers,-2
+30273,4,2014-04-25T00:00:00.000Z,Washington Wizards,Chicago Bulls,-3
+30274,4,2014-04-26T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,1
+30275,4,2014-04-27T00:00:00.000Z,Portland Trail Blazers,Houston Rockets,3
+30415,4,2014-04-19T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,-8
+30416,4,2014-04-20T00:00:00.000Z,Houston Rockets,Portland Trail Blazers,-2
+30436,4,2012-04-28T00:00:00.000Z,Miami Heat,New York Knicks,33
+30437,4,2012-04-29T00:00:00.000Z,San Antonio Spurs,Utah Jazz,15
+30438,4,2012-04-30T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,3
+30439,4,2012-05-01T00:00:00.000Z,Chicago Bulls,Philadelphia 76ers,-17
+30440,4,2012-05-02T00:00:00.000Z,Orlando Magic,Indiana Pacers,-23
+30441,4,2012-05-03T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,-16
+30442,4,2012-05-04T00:00:00.000Z,Boston Celtics,Atlanta Hawks,6
+30443,4,2012-05-05T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,-6
+30444,4,2012-05-06T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,-4
+30445,4,2012-05-07T00:00:00.000Z,Utah Jazz,San Antonio Spurs,-6
+30446,4,2012-05-08T00:00:00.000Z,Atlanta Hawks,Boston Celtics,1
+30447,4,2012-05-09T00:00:00.000Z,Memphis Grizzlies,LA Clippers,12
+30448,4,2012-05-10T00:00:00.000Z,Boston Celtics,Atlanta Hawks,3
+30512,4,2014-04-19T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,14
+30513,4,2014-04-20T00:00:00.000Z,Miami Heat,Charlotte Hornets,11
+30572,4,2012-05-06T00:00:00.000Z,Philadelphia 76ers,Chicago Bulls,7
+30573,4,2012-05-08T00:00:00.000Z,Indiana Pacers,Orlando Magic,18
+30574,4,2012-05-09T00:00:00.000Z,Miami Heat,New York Knicks,12
+30575,4,2012-05-10T00:00:00.000Z,Philadelphia 76ers,Chicago Bulls,1
+30576,4,2012-05-11T00:00:00.000Z,LA Clippers,Memphis Grizzlies,-2
+30577,4,2012-05-12T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,1
+30578,4,2012-05-13T00:00:00.000Z,Memphis Grizzlies,LA Clippers,-10
+30579,4,2012-05-14T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,-1
+30580,4,2012-05-15T00:00:00.000Z,San Antonio Spurs,LA Clippers,16
+30581,4,2012-05-16T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,-16
+30582,4,2012-05-17T00:00:00.000Z,San Antonio Spurs,LA Clippers,17
+30583,4,2012-05-18T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,9
+30584,4,2012-05-19T00:00:00.000Z,Los Angeles Lakers,Oklahoma City Thunder,-3
+30585,4,2012-05-20T00:00:00.000Z,Indiana Pacers,Miami Heat,-8
+30586,4,2012-05-21T00:00:00.000Z,Oklahoma City Thunder,Los Angeles Lakers,16
+30587,4,2012-05-22T00:00:00.000Z,Miami Heat,Indiana Pacers,32
+30588,4,2012-05-23T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,7
+30589,4,2012-05-24T00:00:00.000Z,Indiana Pacers,Miami Heat,-12
+30590,4,2012-05-26T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,10
+30591,4,2012-05-27T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,3
+30592,4,2012-05-28T00:00:00.000Z,Miami Heat,Boston Celtics,14
+30593,4,2012-05-29T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,9
+30594,4,2012-05-30T00:00:00.000Z,Miami Heat,Boston Celtics,4
+30595,4,2012-05-31T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,20
+30596,4,2012-06-01T00:00:00.000Z,Boston Celtics,Miami Heat,10
+30597,4,2012-06-02T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,6
+30598,4,2012-06-04T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,-5
+30599,4,2012-06-05T00:00:00.000Z,Miami Heat,Boston Celtics,-4
+30600,4,2012-06-06T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,8
+30601,4,2012-06-07T00:00:00.000Z,Boston Celtics,Miami Heat,-19
+30602,4,2012-06-09T00:00:00.000Z,Miami Heat,Boston Celtics,13
+30603,4,2012-06-12T00:00:00.000Z,Oklahoma City Thunder,Miami Heat,11
+30604,4,2012-06-14T00:00:00.000Z,Oklahoma City Thunder,Miami Heat,-4
+30605,4,2012-06-17T00:00:00.000Z,Miami Heat,Oklahoma City Thunder,6
+30606,4,2012-06-19T00:00:00.000Z,Miami Heat,Oklahoma City Thunder,6
+30607,4,2012-06-21T00:00:00.000Z,Miami Heat,Oklahoma City Thunder,15
+30688,4,2014-04-21T00:00:00.000Z,LA Clippers,Golden State Warriors,40
+30689,4,2014-04-22T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,16
+30690,4,2014-04-23T00:00:00.000Z,Miami Heat,Charlotte Hornets,4
+30691,4,2014-04-24T00:00:00.000Z,Atlanta Hawks,Indiana Pacers,13
+30692,4,2014-04-25T00:00:00.000Z,Portland Trail Blazers,Houston Rockets,-5
+30693,4,2014-04-26T00:00:00.000Z,Atlanta Hawks,Indiana Pacers,-3
+30694,4,2014-04-26T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,-3
+30695,4,2014-04-27T00:00:00.000Z,Golden State Warriors,LA Clippers,21
+30696,4,2014-04-28T00:00:00.000Z,Charlotte Hornets,Miami Heat,-11
+30894,4,2014-04-27T00:00:00.000Z,Washington Wizards,Chicago Bulls,9
+30895,4,2014-04-28T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,-4
+30896,4,2014-04-29T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,-1
+30897,4,2014-04-30T00:00:00.000Z,Houston Rockets,Portland Trail Blazers,10
+30898,4,2014-05-01T00:00:00.000Z,Memphis Grizzlies,Oklahoma City Thunder,-20
+30899,4,2014-05-02T00:00:00.000Z,Dallas Mavericks,San Antonio Spurs,2
+30900,4,2014-05-03T00:00:00.000Z,Indiana Pacers,Atlanta Hawks,12
+31020,4,2014-04-29T00:00:00.000Z,Chicago Bulls,Washington Wizards,-6
+31021,4,2014-04-30T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,6
+31022,4,2014-05-01T00:00:00.000Z,Atlanta Hawks,Indiana Pacers,-7
+31023,4,2014-05-02T00:00:00.000Z,Portland Trail Blazers,Houston Rockets,1
+31024,4,2014-05-03T00:00:00.000Z,Oklahoma City Thunder,Memphis Grizzlies,11
+31025,4,2014-05-04T00:00:00.000Z,San Antonio Spurs,Dallas Mavericks,23
+31026,4,2014-05-05T00:00:00.000Z,Indiana Pacers,Washington Wizards,-6
+31027,4,2014-05-06T00:00:00.000Z,San Antonio Spurs,Portland Trail Blazers,24
+31028,4,2014-05-07T00:00:00.000Z,Indiana Pacers,Washington Wizards,4
+31029,4,2014-05-08T00:00:00.000Z,San Antonio Spurs,Portland Trail Blazers,17
+31030,4,2014-05-09T00:00:00.000Z,Washington Wizards,Indiana Pacers,-22
+31031,4,2014-05-10T00:00:00.000Z,Portland Trail Blazers,San Antonio Spurs,-15
+31032,4,2014-05-11T00:00:00.000Z,LA Clippers,Oklahoma City Thunder,2
+31065,4,2015-04-18T00:00:00.000Z,Chicago Bulls,Milwaukee Bucks,12
+31066,4,2015-04-19T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,13
+31067,4,2015-04-20T00:00:00.000Z,Chicago Bulls,Milwaukee Bucks,9
+31068,4,2015-04-21T00:00:00.000Z,Toronto Raptors,Washington Wizards,-11
+31069,4,2015-04-22T00:00:00.000Z,Memphis Grizzlies,Portland Trail Blazers,15
+31070,4,2015-04-23T00:00:00.000Z,Milwaukee Bucks,Chicago Bulls,-7
+31071,4,2015-04-24T00:00:00.000Z,Dallas Mavericks,Houston Rockets,-2
+31072,4,2015-04-25T00:00:00.000Z,New Orleans Pelicans,Golden State Warriors,-11
+31073,4,2015-04-26T00:00:00.000Z,Washington Wizards,Toronto Raptors,31
+31074,4,2015-04-27T00:00:00.000Z,Chicago Bulls,Milwaukee Bucks,-6
+31075,4,2015-04-28T00:00:00.000Z,Houston Rockets,Dallas Mavericks,9
+31076,4,2015-04-29T00:00:00.000Z,Memphis Grizzlies,Portland Trail Blazers,6
+31077,4,2015-04-30T00:00:00.000Z,Milwaukee Bucks,Chicago Bulls,-54
+31078,4,2015-05-03T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,15
+31079,4,2015-05-04T00:00:00.000Z,Cleveland Cavaliers,Chicago Bulls,-7
+31080,4,2015-05-05T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,-7
+31081,4,2015-05-06T00:00:00.000Z,Cleveland Cavaliers,Chicago Bulls,15
+31082,4,2015-05-08T00:00:00.000Z,LA Clippers,Houston Rockets,25
+31083,4,2015-05-09T00:00:00.000Z,Washington Wizards,Atlanta Hawks,2
+31084,4,2015-05-10T00:00:00.000Z,LA Clippers,Houston Rockets,33
+31085,4,2015-05-11T00:00:00.000Z,Washington Wizards,Atlanta Hawks,-5
+31086,4,2015-05-12T00:00:00.000Z,Houston Rockets,LA Clippers,21
+31087,4,2015-05-13T00:00:00.000Z,Atlanta Hawks,Washington Wizards,1
+31088,4,2015-05-14T00:00:00.000Z,LA Clippers,Houston Rockets,-12
+31089,4,2015-05-15T00:00:00.000Z,Washington Wizards,Atlanta Hawks,-3
+31181,4,2014-05-12T00:00:00.000Z,Portland Trail Blazers,San Antonio Spurs,11
+31182,4,2014-05-13T00:00:00.000Z,Indiana Pacers,Washington Wizards,-23
+31183,4,2014-05-14T00:00:00.000Z,Miami Heat,Brooklyn Nets,2
+31184,4,2014-05-15T00:00:00.000Z,Washington Wizards,Indiana Pacers,-13
+32561,4,2015-04-18T00:00:00.000Z,Toronto Raptors,Washington Wizards,-7
+32562,4,2015-04-19T00:00:00.000Z,LA Clippers,San Antonio Spurs,15
+32563,4,2015-04-20T00:00:00.000Z,Golden State Warriors,New Orleans Pelicans,10
+32564,4,2015-04-21T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,8
+32565,4,2015-04-22T00:00:00.000Z,LA Clippers,San Antonio Spurs,-4
+32566,4,2015-04-23T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-8
+32567,4,2015-04-24T00:00:00.000Z,San Antonio Spurs,LA Clippers,27
+32568,4,2015-04-25T00:00:00.000Z,Brooklyn Nets,Atlanta Hawks,8
+32569,4,2015-04-25T00:00:00.000Z,Portland Trail Blazers,Memphis Grizzlies,-6
+32570,4,2015-04-26T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-8
+32795,4,2016-04-16T00:00:00.000Z,Atlanta Hawks,Boston Celtics,1
+32796,4,2016-04-17T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,32
+32797,4,2016-04-18T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,-1
+32798,4,2016-04-20T00:00:00.000Z,Miami Heat,Charlotte Hornets,12
+32799,4,2016-04-21T00:00:00.000Z,Houston Rockets,Golden State Warriors,1
+32800,4,2016-04-22T00:00:00.000Z,Boston Celtics,Atlanta Hawks,8
+32801,4,2016-04-23T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,-11
+32802,4,2016-04-24T00:00:00.000Z,Boston Celtics,Atlanta Hawks,9
+32803,4,2016-04-25T00:00:00.000Z,Portland Trail Blazers,LA Clippers,14
+32804,4,2016-04-26T00:00:00.000Z,Atlanta Hawks,Boston Celtics,27
+32805,4,2016-04-27T00:00:00.000Z,Miami Heat,Charlotte Hornets,-2
+32806,4,2016-04-29T00:00:00.000Z,Portland Trail Blazers,LA Clippers,3
+32807,4,2016-04-30T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,32
+32808,4,2016-05-01T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,12
+33027,4,2018-04-14T00:00:00.000Z,Portland Trail Blazers,New Orleans Pelicans,-2
+33028,4,2018-04-15T00:00:00.000Z,Oklahoma City Thunder,Utah Jazz,8
+33029,4,2018-04-17T00:00:00.000Z,Portland Trail Blazers,New Orleans Pelicans,-9
+33030,4,2018-04-18T00:00:00.000Z,Cleveland Cavaliers,Indiana Pacers,3
+33031,4,2018-04-19T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,-13
+33032,4,2018-04-20T00:00:00.000Z,Washington Wizards,Toronto Raptors,19
+33033,4,2018-04-21T00:00:00.000Z,New Orleans Pelicans,Portland Trail Blazers,8
+33034,4,2018-04-22T00:00:00.000Z,Indiana Pacers,Cleveland Cavaliers,-4
+33035,4,2018-04-23T00:00:00.000Z,Utah Jazz,Oklahoma City Thunder,17
+33036,4,2018-04-24T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,5
+33037,4,2018-04-25T00:00:00.000Z,Houston Rockets,Minnesota Timberwolves,18
+33038,4,2018-04-27T00:00:00.000Z,Utah Jazz,Oklahoma City Thunder,5
+33039,4,2018-04-28T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,16
+33040,4,2018-04-29T00:00:00.000Z,Houston Rockets,Utah Jazz,14
+33041,4,2018-05-01T00:00:00.000Z,Golden State Warriors,New Orleans Pelicans,5
+33042,4,2018-05-02T00:00:00.000Z,Houston Rockets,Utah Jazz,-8
+33043,4,2018-05-03T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,-18
+33044,4,2018-05-04T00:00:00.000Z,New Orleans Pelicans,Golden State Warriors,19
+33045,4,2018-05-04T00:00:00.000Z,Utah Jazz,Houston Rockets,-21
+33046,4,2018-05-05T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,-3
+33047,4,2018-05-05T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,2
+33048,4,2018-05-06T00:00:00.000Z,New Orleans Pelicans,Golden State Warriors,-26
+33049,4,2018-05-06T00:00:00.000Z,Utah Jazz,Houston Rockets,-13
+33050,4,2018-05-07T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,11
+33051,4,2018-05-07T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,35
+33052,4,2018-05-08T00:00:00.000Z,Golden State Warriors,New Orleans Pelicans,9
+33053,4,2018-05-08T00:00:00.000Z,Houston Rockets,Utah Jazz,10
+33054,4,2018-05-09T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,2
+33055,4,2018-05-13T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,25
+33056,4,2018-05-14T00:00:00.000Z,Houston Rockets,Golden State Warriors,-13
+33057,4,2018-05-15T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,13
+33058,4,2018-05-16T00:00:00.000Z,Houston Rockets,Golden State Warriors,22
+33070,4,2016-04-16T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,38
+33071,4,2016-04-17T00:00:00.000Z,Miami Heat,Charlotte Hornets,32
+33281,4,2018-04-14T00:00:00.000Z,Toronto Raptors,Washington Wizards,8
+33282,4,2018-04-15T00:00:00.000Z,Houston Rockets,Minnesota Timberwolves,3
+33283,4,2018-04-16T00:00:00.000Z,Philadelphia 76ers,Miami Heat,-10
+33284,4,2018-04-17T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,14
+33285,4,2018-04-18T00:00:00.000Z,Oklahoma City Thunder,Utah Jazz,-7
+33286,4,2018-04-19T00:00:00.000Z,New Orleans Pelicans,Portland Trail Blazers,17
+33287,4,2018-04-20T00:00:00.000Z,Indiana Pacers,Cleveland Cavaliers,2
+33288,4,2018-04-21T00:00:00.000Z,Minnesota Timberwolves,Houston Rockets,16
+33289,4,2018-04-22T00:00:00.000Z,Washington Wizards,Toronto Raptors,8
+33290,4,2018-04-23T00:00:00.000Z,Minnesota Timberwolves,Houston Rockets,-19
+33291,4,2018-04-24T00:00:00.000Z,Philadelphia 76ers,Miami Heat,13
+33292,4,2018-04-25T00:00:00.000Z,Toronto Raptors,Washington Wizards,10
+33293,4,2018-05-19T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,30
+33294,4,2018-05-20T00:00:00.000Z,Golden State Warriors,Houston Rockets,41
+33295,4,2018-05-21T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,9
+33296,4,2018-05-22T00:00:00.000Z,Golden State Warriors,Houston Rockets,-3
+33297,4,2018-05-23T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,13
+33298,4,2018-05-24T00:00:00.000Z,Houston Rockets,Golden State Warriors,4
+33299,4,2018-05-25T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,10
+33300,4,2018-05-26T00:00:00.000Z,Golden State Warriors,Houston Rockets,29
+33301,4,2018-05-27T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-8
+33302,4,2018-05-28T00:00:00.000Z,Houston Rockets,Golden State Warriors,-9
+33719,4,2018-05-31T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,10
+33720,4,2018-06-03T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,19
+33721,4,2018-06-06T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,-8
+33722,4,2018-06-08T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,-23
+33748,4,2016-04-16T00:00:00.000Z,Toronto Raptors,Indiana Pacers,-10
+33749,4,2016-04-17T00:00:00.000Z,LA Clippers,Portland Trail Blazers,20
+33750,4,2016-04-18T00:00:00.000Z,Toronto Raptors,Indiana Pacers,11
+33751,4,2016-04-19T00:00:00.000Z,Atlanta Hawks,Boston Celtics,17
+33752,4,2016-04-20T00:00:00.000Z,LA Clippers,Portland Trail Blazers,21
+33753,4,2016-04-21T00:00:00.000Z,Dallas Mavericks,Oklahoma City Thunder,-29
+33754,4,2016-04-22T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,-9
+33755,4,2016-04-23T00:00:00.000Z,Indiana Pacers,Toronto Raptors,17
+33756,4,2016-04-23T00:00:00.000Z,Portland Trail Blazers,LA Clippers,8
+33757,4,2016-04-24T00:00:00.000Z,Houston Rockets,Golden State Warriors,-27
+33850,4,2017-04-15T00:00:00.000Z,Cleveland Cavaliers,Indiana Pacers,1
+33851,4,2017-04-16T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,31
+33852,4,2017-04-18T00:00:00.000Z,LA Clippers,Utah Jazz,8
+33853,4,2017-04-19T00:00:00.000Z,Washington Wizards,Atlanta Hawks,8
+33854,4,2017-04-20T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,11
+33855,4,2017-04-21T00:00:00.000Z,Chicago Bulls,Boston Celtics,-17
+33856,4,2017-04-21T00:00:00.000Z,Utah Jazz,LA Clippers,-5
+33857,4,2017-04-22T00:00:00.000Z,Atlanta Hawks,Washington Wizards,18
+33858,4,2017-04-23T00:00:00.000Z,Utah Jazz,LA Clippers,7
+33859,4,2017-04-24T00:00:00.000Z,Atlanta Hawks,Washington Wizards,10
+33860,4,2017-04-25T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,6
+33861,4,2017-04-27T00:00:00.000Z,Milwaukee Bucks,Toronto Raptors,-3
+33862,4,2017-04-28T00:00:00.000Z,Chicago Bulls,Boston Celtics,-22
+33863,4,2017-04-30T00:00:00.000Z,Boston Celtics,Washington Wizards,12
+33864,4,2017-05-01T00:00:00.000Z,San Antonio Spurs,Houston Rockets,-27
+33865,4,2017-05-02T00:00:00.000Z,Boston Celtics,Washington Wizards,10
+33866,4,2017-05-03T00:00:00.000Z,San Antonio Spurs,Houston Rockets,25
+33867,4,2017-05-04T00:00:00.000Z,Washington Wizards,Boston Celtics,27
+33868,4,2017-05-05T00:00:00.000Z,Houston Rockets,San Antonio Spurs,-11
+33869,4,2017-05-06T00:00:00.000Z,Utah Jazz,Golden State Warriors,-11
+33870,4,2017-05-07T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,-7
+33871,4,2017-05-07T00:00:00.000Z,Houston Rockets,San Antonio Spurs,21
+33872,4,2017-05-22T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,-14
+33875,4,2016-04-16T00:00:00.000Z,Golden State Warriors,Houston Rockets,26
+33876,4,2016-04-17T00:00:00.000Z,Cleveland Cavaliers,Detroit Pistons,5
+33877,4,2016-04-18T00:00:00.000Z,Golden State Warriors,Houston Rockets,9
+33878,4,2016-04-19T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,26
+33879,4,2016-04-20T00:00:00.000Z,Cleveland Cavaliers,Detroit Pistons,17
+33880,4,2016-04-21T00:00:00.000Z,Indiana Pacers,Toronto Raptors,-16
+33881,4,2016-04-22T00:00:00.000Z,Detroit Pistons,Cleveland Cavaliers,-10
+33882,4,2016-04-23T00:00:00.000Z,Charlotte Hornets,Miami Heat,16
+33883,4,2016-04-24T00:00:00.000Z,Detroit Pistons,Cleveland Cavaliers,-2
+33884,4,2016-04-25T00:00:00.000Z,Oklahoma City Thunder,Dallas Mavericks,14
+33885,4,2016-04-26T00:00:00.000Z,Toronto Raptors,Indiana Pacers,3
+33886,4,2016-04-27T00:00:00.000Z,LA Clippers,Portland Trail Blazers,-10
+33887,4,2016-04-28T00:00:00.000Z,Boston Celtics,Atlanta Hawks,-12
+33888,4,2016-04-29T00:00:00.000Z,Indiana Pacers,Toronto Raptors,18
+33889,4,2016-05-01T00:00:00.000Z,Toronto Raptors,Indiana Pacers,5
+33890,4,2016-05-02T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,-1
+33891,4,2016-05-03T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,11
+33892,4,2016-05-04T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,25
+33893,4,2016-05-05T00:00:00.000Z,Toronto Raptors,Miami Heat,4
+33894,4,2016-05-06T00:00:00.000Z,Atlanta Hawks,Cleveland Cavaliers,-13
+33895,4,2016-05-07T00:00:00.000Z,Portland Trail Blazers,Golden State Warriors,12
+33896,4,2016-05-08T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,14
+33897,4,2016-05-09T00:00:00.000Z,Miami Heat,Toronto Raptors,7
+33898,4,2016-05-11T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,4
+33899,4,2016-05-12T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,14
+33900,4,2016-05-13T00:00:00.000Z,Miami Heat,Toronto Raptors,12
+33901,4,2016-05-15T00:00:00.000Z,Toronto Raptors,Miami Heat,27
+33902,4,2016-05-16T00:00:00.000Z,Golden State Warriors,Oklahoma City Thunder,-6
+33903,4,2016-05-17T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,31
+33904,4,2016-05-18T00:00:00.000Z,Golden State Warriors,Oklahoma City Thunder,27
+33905,4,2016-05-19T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,19
+33906,4,2016-05-21T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,15
+33907,4,2016-05-22T00:00:00.000Z,Oklahoma City Thunder,Golden State Warriors,28
+33908,4,2016-05-23T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,6
+33909,4,2016-05-24T00:00:00.000Z,Oklahoma City Thunder,Golden State Warriors,24
+33910,4,2016-05-25T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,38
+33911,4,2016-05-26T00:00:00.000Z,Golden State Warriors,Oklahoma City Thunder,9
+33912,4,2016-05-27T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,-26
+33913,4,2016-05-28T00:00:00.000Z,Oklahoma City Thunder,Golden State Warriors,-7
+33914,4,2016-05-30T00:00:00.000Z,Golden State Warriors,Oklahoma City Thunder,8
+33915,4,2016-06-02T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,15
+33916,4,2016-06-05T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,33
+33917,4,2016-06-08T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,30
+33918,4,2016-06-10T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,-11
+33919,4,2016-06-13T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,-15
+33920,4,2016-06-16T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,14
+33921,4,2016-06-19T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,-4
+33994,4,2017-04-15T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,29
+33995,4,2017-04-16T00:00:00.000Z,Boston Celtics,Chicago Bulls,-4
+33996,4,2017-04-17T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,14
+33997,4,2017-04-18T00:00:00.000Z,Toronto Raptors,Milwaukee Bucks,6
+33998,4,2017-04-19T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,29
+33999,4,2017-04-20T00:00:00.000Z,Indiana Pacers,Cleveland Cavaliers,-5
+34000,4,2017-04-21T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,2
+34001,4,2017-04-22T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,2
+34002,4,2017-04-23T00:00:00.000Z,Chicago Bulls,Boston Celtics,-9
+34003,4,2017-04-24T00:00:00.000Z,Toronto Raptors,Milwaukee Bucks,25
+34004,4,2017-04-25T00:00:00.000Z,LA Clippers,Utah Jazz,-4
+34005,4,2017-04-26T00:00:00.000Z,Washington Wizards,Atlanta Hawks,4
+34006,4,2017-04-28T00:00:00.000Z,Utah Jazz,LA Clippers,-5
+34007,4,2017-04-30T00:00:00.000Z,LA Clippers,Utah Jazz,-13
+34008,4,2017-05-01T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,11
+34009,4,2017-05-02T00:00:00.000Z,Golden State Warriors,Utah Jazz,12
+34010,4,2017-05-03T00:00:00.000Z,Cleveland Cavaliers,Toronto Raptors,22
+34011,4,2016-04-24T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,-21
+34012,4,2016-04-25T00:00:00.000Z,Charlotte Hornets,Miami Heat,4
+34013,4,2016-04-27T00:00:00.000Z,Golden State Warriors,Houston Rockets,33
+34014,4,2016-04-29T00:00:00.000Z,Charlotte Hornets,Miami Heat,-7
+34015,4,2016-05-01T00:00:00.000Z,Miami Heat,Charlotte Hornets,33
+34016,4,2016-05-02T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,11
+34017,4,2016-05-03T00:00:00.000Z,Toronto Raptors,Miami Heat,-6
+34018,4,2016-05-06T00:00:00.000Z,Oklahoma City Thunder,San Antonio Spurs,-4
+34019,4,2016-05-07T00:00:00.000Z,Miami Heat,Toronto Raptors,-4
+34020,4,2016-05-08T00:00:00.000Z,Atlanta Hawks,Cleveland Cavaliers,-1
+34021,4,2016-05-09T00:00:00.000Z,Portland Trail Blazers,Golden State Warriors,-7
+34022,4,2016-05-10T00:00:00.000Z,San Antonio Spurs,Oklahoma City Thunder,-4
+34023,4,2016-05-11T00:00:00.000Z,Toronto Raptors,Miami Heat,8
+34224,4,2017-04-15T00:00:00.000Z,Toronto Raptors,Milwaukee Bucks,-14
+34225,4,2017-04-16T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,12
+34226,4,2017-04-17T00:00:00.000Z,Cleveland Cavaliers,Indiana Pacers,6
+34227,4,2017-04-18T00:00:00.000Z,Boston Celtics,Chicago Bulls,-14
+34228,4,2017-04-19T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,4
+34229,4,2017-04-20T00:00:00.000Z,Milwaukee Bucks,Toronto Raptors,27
+34230,4,2017-04-22T00:00:00.000Z,Portland Trail Blazers,Golden State Warriors,-6
+34231,4,2017-04-23T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,-4
+34312,4,2017-04-22T00:00:00.000Z,Milwaukee Bucks,Toronto Raptors,-11
+34313,4,2017-04-23T00:00:00.000Z,Indiana Pacers,Cleveland Cavaliers,-4
+34314,4,2017-04-24T00:00:00.000Z,Portland Trail Blazers,Golden State Warriors,-25
+34315,4,2017-04-25T00:00:00.000Z,San Antonio Spurs,Memphis Grizzlies,13
+34316,4,2017-04-26T00:00:00.000Z,Boston Celtics,Chicago Bulls,11
+34317,4,2017-04-27T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,-7
+34318,4,2017-04-28T00:00:00.000Z,Atlanta Hawks,Washington Wizards,-16
+34475,4,2017-05-04T00:00:00.000Z,Golden State Warriors,Utah Jazz,11
+34476,4,2017-05-05T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,-21
+34477,4,2017-05-07T00:00:00.000Z,Washington Wizards,Boston Celtics,19
+34543,4,2018-04-14T00:00:00.000Z,Philadelphia 76ers,Miami Heat,27
+34544,4,2018-04-15T00:00:00.000Z,Cleveland Cavaliers,Indiana Pacers,-18
+34596,4,2017-05-08T00:00:00.000Z,Utah Jazz,Golden State Warriors,-26
+34597,4,2017-05-09T00:00:00.000Z,San Antonio Spurs,Houston Rockets,3
+34598,4,2017-05-10T00:00:00.000Z,Boston Celtics,Washington Wizards,22
+34599,4,2017-05-11T00:00:00.000Z,Houston Rockets,San Antonio Spurs,-39
+34600,4,2017-05-12T00:00:00.000Z,Washington Wizards,Boston Celtics,1
+34601,4,2017-05-14T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,2
+34602,4,2017-05-15T00:00:00.000Z,Boston Celtics,Washington Wizards,10
+34603,4,2017-05-16T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,36
+34604,4,2017-05-17T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-13
+34605,4,2017-05-19T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-44
+34606,4,2017-05-20T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,-12
+34607,4,2017-05-21T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,-3
+34608,4,2017-05-23T00:00:00.000Z,Cleveland Cavaliers,Boston Celtics,13
+34609,4,2017-05-25T00:00:00.000Z,Boston Celtics,Cleveland Cavaliers,-33
+34610,4,2017-06-01T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,22
+34611,4,2017-06-04T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,19
+34612,4,2017-06-07T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,-5
+34613,4,2017-06-09T00:00:00.000Z,Cleveland Cavaliers,Golden State Warriors,21
+34614,4,2017-06-12T00:00:00.000Z,Golden State Warriors,Cleveland Cavaliers,9
+34797,4,2018-04-15T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,6
+34798,4,2018-04-16T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,15
+34799,4,2018-04-17T00:00:00.000Z,Toronto Raptors,Washington Wizards,11
+34800,4,2018-04-18T00:00:00.000Z,Houston Rockets,Minnesota Timberwolves,20
+34801,4,2018-04-19T00:00:00.000Z,Miami Heat,Philadelphia 76ers,-20
+34802,4,2018-04-20T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,24
+34803,4,2018-04-21T00:00:00.000Z,Miami Heat,Philadelphia 76ers,-4
+34804,4,2018-04-21T00:00:00.000Z,Utah Jazz,Oklahoma City Thunder,13
+34805,4,2018-04-22T00:00:00.000Z,San Antonio Spurs,Golden State Warriors,13
+34806,4,2018-04-25T00:00:00.000Z,Oklahoma City Thunder,Utah Jazz,8
+34807,4,2018-04-26T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,11
+34808,4,2018-04-27T00:00:00.000Z,Washington Wizards,Toronto Raptors,-10
+34961,4,2018-04-14T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,21
+35577,4,2017-04-15T00:00:00.000Z,LA Clippers,Utah Jazz,-2
+35578,4,2017-04-16T00:00:00.000Z,Washington Wizards,Atlanta Hawks,7
+35632,4,2018-04-22T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,2
+35633,4,2018-04-24T00:00:00.000Z,Golden State Warriors,San Antonio Spurs,8
+35634,4,2018-04-25T00:00:00.000Z,Cleveland Cavaliers,Indiana Pacers,3
+35635,4,2018-04-27T00:00:00.000Z,Indiana Pacers,Cleveland Cavaliers,34
+35636,4,2018-04-28T00:00:00.000Z,Golden State Warriors,New Orleans Pelicans,22
+35637,4,2018-04-29T00:00:00.000Z,Cleveland Cavaliers,Indiana Pacers,4
+35638,4,2018-04-30T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,16
+35639,4,2018-05-01T00:00:00.000Z,Toronto Raptors,Cleveland Cavaliers,-1
+35640,4,2018-05-03T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,5
+60517,4,2019-04-23T00:00:00.000Z,Denver Nuggets,San Antonio Spurs,18
+60500,4,2019-04-17T00:00:00.000Z,Boston Celtics,Indiana Pacers,8
+60499,4,2019-04-17T00:00:00.000Z,Milwaukee Bucks,Detroit Pistons,21
+60498,4,2019-04-17T00:00:00.000Z,Houston Rockets,Utah Jazz,20
+60504,4,2019-04-19T00:00:00.000Z,Orlando Magic,Toronto Raptors,-5
+60506,4,2019-04-19T00:00:00.000Z,Indiana Pacers,Boston Celtics,-8
+60505,4,2019-04-19T00:00:00.000Z,Oklahoma City Thunder,Portland Trail Blazers,12
+60485,4,2019-04-13T00:00:00.000Z,Philadelphia 76ers,Brooklyn Nets,-9
+60486,4,2019-04-13T00:00:00.000Z,Toronto Raptors,Orlando Magic,-3
+60487,4,2019-04-13T00:00:00.000Z,Golden State Warriors,LA Clippers,17
+60488,4,2019-04-13T00:00:00.000Z,Denver Nuggets,San Antonio Spurs,-5
+60489,4,2019-04-14T00:00:00.000Z,Boston Celtics,Indiana Pacers,10
+60491,4,2019-04-14T00:00:00.000Z,Milwaukee Bucks,Detroit Pistons,35
+60490,4,2019-04-14T00:00:00.000Z,Houston Rockets,Utah Jazz,32
+60492,4,2019-04-14T00:00:00.000Z,Portland Trail Blazers,Oklahoma City Thunder,5
+60493,4,2019-04-15T00:00:00.000Z,Golden State Warriors,LA Clippers,-4
+60494,4,2019-04-15T00:00:00.000Z,Philadelphia 76ers,Brooklyn Nets,22
+60496,4,2019-04-16T00:00:00.000Z,Toronto Raptors,Orlando Magic,29
+60497,4,2019-04-16T00:00:00.000Z,Denver Nuggets,San Antonio Spurs,9
+60495,4,2019-04-16T00:00:00.000Z,Portland Trail Blazers,Oklahoma City Thunder,20
+60511,4,2019-04-21T00:00:00.000Z,Indiana Pacers,Boston Celtics,-4
+60514,4,2019-04-21T00:00:00.000Z,LA Clippers,Golden State Warriors,-8
+60513,4,2019-04-21T00:00:00.000Z,Orlando Magic,Toronto Raptors,-22
+60512,4,2019-04-21T00:00:00.000Z,Oklahoma City Thunder,Portland Trail Blazers,-13
+60516,4,2019-04-22T00:00:00.000Z,Detroit Pistons,Milwaukee Bucks,-23
+60515,4,2019-04-22T00:00:00.000Z,Utah Jazz,Houston Rockets,16
+60501,4,2019-04-18T00:00:00.000Z,Brooklyn Nets,Philadelphia 76ers,-16
+60503,4,2019-04-18T00:00:00.000Z,San Antonio Spurs,Denver Nuggets,10
+60502,4,2019-04-18T00:00:00.000Z,LA Clippers,Golden State Warriors,-27
+60509,4,2019-04-20T00:00:00.000Z,Brooklyn Nets,Philadelphia 76ers,-4
+60508,4,2019-04-20T00:00:00.000Z,San Antonio Spurs,Denver Nuggets,-14
+60510,4,2019-04-20T00:00:00.000Z,Detroit Pistons,Milwaukee Bucks,-16
+60507,4,2019-04-20T00:00:00.000Z,Utah Jazz,Houston Rockets,-3
+60521,4,2019-04-24T00:00:00.000Z,Golden State Warriors,LA Clippers,-8
+60531,4,2019-04-26T00:00:00.000Z,LA Clippers,Golden State Warriors,-19
+60522,4,2019-04-24T00:00:00.000Z,Houston Rockets,Utah Jazz,7
+60526,4,2019-04-25T00:00:00.000Z,San Antonio Spurs,Denver Nuggets,17
+60534,4,2019-04-27T00:00:00.000Z,Denver Nuggets,San Antonio Spurs,4
+61746,4,2019-05-10T00:00:00.000Z,Houston Rockets,Golden State Warriors,-5
+60519,4,2019-04-23T00:00:00.000Z,Toronto Raptors,Orlando Magic,19
+60520,4,2019-04-23T00:00:00.000Z,Philadelphia 76ers,Brooklyn Nets,22
+60518,4,2019-04-23T00:00:00.000Z,Portland Trail Blazers,Oklahoma City Thunder,3
+61741,4,2019-05-06T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,-12
+61740,4,2019-05-06T00:00:00.000Z,Houston Rockets,Golden State Warriors,4
+61743,4,2019-05-08T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,25
+61744,4,2019-05-08T00:00:00.000Z,Golden State Warriors,Houston Rockets,5
+61739,4,2019-05-05T00:00:00.000Z,Philadelphia 76ers,Toronto Raptors,-5
+61742,4,2019-05-07T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,36
+61745,4,2019-05-09T00:00:00.000Z,Philadelphia 76ers,Toronto Raptors,11
+61723,4,2019-04-27T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,13
+61724,4,2019-04-28T00:00:00.000Z,Golden State Warriors,Houston Rockets,4
+61725,4,2019-04-28T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,-22
+61726,4,2019-04-29T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,-5
+61727,4,2019-04-30T00:00:00.000Z,Golden State Warriors,Houston Rockets,6
+61728,4,2019-04-30T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,21
+61736,4,2019-05-02T00:00:00.000Z,Philadelphia 76ers,Toronto Raptors,21
+61737,4,2019-05-03T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,-7
+61738,5,2019-05-04T00:00:00.000Z,Houston Rockets,Golden State Warriors,5
+61848,4,2019-05-01T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,-7
+61851,8,2019-05-03T00:00:00.000Z,Portland Trail Blazers,Denver Nuggets,3
+62351,4,2019-05-21T00:00:00.000Z,Toronto Raptors,Milwaukee Bucks,18
+62347,4,2019-05-17T00:00:00.000Z,Milwaukee Bucks,Toronto Raptors,22
+61854,4,2019-05-05T00:00:00.000Z,Portland Trail Blazers,Denver Nuggets,-4
+61867,4,2019-05-12T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,-4
+61749,4,2019-05-12T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,2
+61858,4,2019-05-07T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,26
+62353,4,2019-05-23T00:00:00.000Z,Milwaukee Bucks,Toronto Raptors,-6
+62355,4,2019-05-25T00:00:00.000Z,Toronto Raptors,Milwaukee Bucks,6
+62348,4,2019-05-18T00:00:00.000Z,Portland Trail Blazers,Golden State Warriors,-11
+62483,4,2019-06-07T00:00:00.000Z,Golden State Warriors,Toronto Raptors,-13
+61861,4,2019-05-09T00:00:00.000Z,Portland Trail Blazers,Denver Nuggets,11
+62344,4,2019-05-14T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,22
+62480,4,2019-05-30T00:00:00.000Z,Toronto Raptors,Golden State Warriors,9
+62484,4,2019-06-10T00:00:00.000Z,Toronto Raptors,Golden State Warriors,-1
+62345,4,2019-05-15T00:00:00.000Z,Milwaukee Bucks,Toronto Raptors,8
+62349,6,2019-05-19T00:00:00.000Z,Toronto Raptors,Milwaukee Bucks,6
+62481,4,2019-06-02T00:00:00.000Z,Toronto Raptors,Golden State Warriors,-5
+62350,5,2019-05-20T00:00:00.000Z,Portland Trail Blazers,Golden State Warriors,-2
+62346,4,2019-05-16T00:00:00.000Z,Golden State Warriors,Portland Trail Blazers,3
+62485,4,2019-06-13T00:00:00.000Z,Golden State Warriors,Toronto Raptors,-4
+62482,4,2019-06-05T00:00:00.000Z,Golden State Warriors,Toronto Raptors,-14
+117687,4,2020-08-18T00:00:00.000Z,Milwaukee Bucks,Orlando Magic,-12
+117688,4,2020-08-18T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,15
+117686,4,2020-08-18T00:00:00.000Z,Indiana Pacers,Miami Heat,-12
+117689,4,2020-08-18T00:00:00.000Z,Los Angeles Lakers,Portland Trail Blazers,-7
+117693,4,2020-08-19T00:00:00.000Z,Toronto Raptors,Brooklyn Nets,5
+117690,4,2020-08-19T00:00:00.000Z,Denver Nuggets,Utah Jazz,-19
+117692,4,2020-08-19T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,27
+117691,4,2020-08-19T00:00:00.000Z,LA Clippers,Dallas Mavericks,-13
+117697,4,2020-08-20T00:00:00.000Z,Milwaukee Bucks,Orlando Magic,15
+117696,4,2020-08-20T00:00:00.000Z,Los Angeles Lakers,Portland Trail Blazers,23
+117699,4,2020-08-21T00:00:00.000Z,Utah Jazz,Denver Nuggets,37
+117700,4,2020-08-21T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,-8
+117701,4,2020-08-21T00:00:00.000Z,Dallas Mavericks,LA Clippers,-8
+117681,4,2020-08-15T00:00:00.000Z,Portland Trail Blazers,Memphis Grizzlies,4
+117682,5,2020-08-17T00:00:00.000Z,Denver Nuggets,Utah Jazz,10
+117683,4,2020-08-17T00:00:00.000Z,Toronto Raptors,Brooklyn Nets,24
+117684,4,2020-08-17T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,8
+117685,4,2020-08-17T00:00:00.000Z,LA Clippers,Dallas Mavericks,8
+117704,4,2020-08-22T00:00:00.000Z,Orlando Magic,Milwaukee Bucks,-14
+117705,4,2020-08-22T00:00:00.000Z,Miami Heat,Indiana Pacers,9
+117694,4,2020-08-20T00:00:00.000Z,Indiana Pacers,Miami Heat,-9
+117695,4,2020-08-20T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,13
+117702,5,2020-08-22T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,12
+117703,4,2020-08-22T00:00:00.000Z,Portland Trail Blazers,Los Angeles Lakers,-8
+117698,4,2020-08-21T00:00:00.000Z,Brooklyn Nets,Toronto Raptors,-25
+117707,4,2020-08-23T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,-4
+117708,4,2020-08-23T00:00:00.000Z,Utah Jazz,Denver Nuggets,2
+117710,4,2020-08-24T00:00:00.000Z,Miami Heat,Indiana Pacers,12
+117717,4,2020-08-25T00:00:00.000Z,LA Clippers,Dallas Mavericks,43
+117711,4,2020-08-24T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,3
+117709,5,2020-08-23T00:00:00.000Z,Dallas Mavericks,LA Clippers,2
+117712,4,2020-08-24T00:00:00.000Z,Orlando Magic,Milwaukee Bucks,-15
+117706,4,2020-08-23T00:00:00.000Z,Brooklyn Nets,Toronto Raptors,-28
+117714,4,2020-08-25T00:00:00.000Z,Denver Nuggets,Utah Jazz,10
+117713,4,2020-08-24T00:00:00.000Z,Portland Trail Blazers,Los Angeles Lakers,-20
+120157,4,2020-09-02T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-2
+120159,4,2020-09-03T00:00:00.000Z,Boston Celtics,Toronto Raptors,-1
+120147,4,2020-08-29T00:00:00.000Z,Milwaukee Bucks,Orlando Magic,14
+120161,4,2020-09-05T00:00:00.000Z,Boston Celtics,Toronto Raptors,-7
+120162,5,2020-09-06T00:00:00.000Z,Miami Heat,Milwaukee Bucks,-3
+120149,4,2020-08-29T00:00:00.000Z,Los Angeles Lakers,Portland Trail Blazers,9
+120148,4,2020-08-29T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,34
+120152,4,2020-08-30T00:00:00.000Z,Utah Jazz,Denver Nuggets,-12
+120151,4,2020-08-30T00:00:00.000Z,Dallas Mavericks,LA Clippers,-14
+120153,4,2020-08-31T00:00:00.000Z,Oklahoma City Thunder,Houston Rockets,4
+120158,4,2020-09-02T00:00:00.000Z,Houston Rockets,Oklahoma City Thunder,2
+120163,4,2020-09-07T00:00:00.000Z,Toronto Raptors,Boston Celtics,-22
+120164,4,2020-09-08T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-9
+120165,6,2020-09-09T00:00:00.000Z,Boston Celtics,Toronto Raptors,-3
+120155,4,2020-09-01T00:00:00.000Z,Toronto Raptors,Boston Celtics,-3
+120160,4,2020-09-04T00:00:00.000Z,Miami Heat,Milwaukee Bucks,15
+124844,4,2020-09-20T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,2
+120156,4,2020-09-01T00:00:00.000Z,Denver Nuggets,Utah Jazz,2
+120810,4,2020-09-03T00:00:00.000Z,LA Clippers,Denver Nuggets,23
+121063,4,2020-09-04T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,-15
+121065,4,2020-09-05T00:00:00.000Z,LA Clippers,Denver Nuggets,-9
+121067,4,2020-09-06T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,8
+121069,4,2020-09-07T00:00:00.000Z,Denver Nuggets,LA Clippers,-6
+121071,4,2020-09-08T00:00:00.000Z,Houston Rockets,Los Angeles Lakers,-10
+121074,4,2020-09-09T00:00:00.000Z,Denver Nuggets,LA Clippers,-11
+121075,4,2020-09-10T00:00:00.000Z,Houston Rockets,Los Angeles Lakers,-10
+121077,4,2020-09-11T00:00:00.000Z,LA Clippers,Denver Nuggets,-6
+120167,4,2020-09-11T00:00:00.000Z,Toronto Raptors,Boston Celtics,-5
+125887,4,2020-09-30T00:00:00.000Z,Los Angeles Lakers,Miami Heat,18
+121079,4,2020-09-12T00:00:00.000Z,Los Angeles Lakers,Houston Rockets,23
+121081,4,2020-09-13T00:00:00.000Z,Denver Nuggets,LA Clippers,13
+124846,4,2020-09-23T00:00:00.000Z,Miami Heat,Boston Celtics,3
+120150,4,2020-08-30T00:00:00.000Z,Toronto Raptors,Boston Celtics,-18
+125892,4,2020-10-11T00:00:00.000Z,Miami Heat,Los Angeles Lakers,-13
+120154,4,2020-08-31T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-11
+125889,4,2020-10-04T00:00:00.000Z,Miami Heat,Los Angeles Lakers,11
+125888,4,2020-10-02T00:00:00.000Z,Los Angeles Lakers,Miami Heat,10
+124091,4,2020-09-17T00:00:00.000Z,Boston Celtics,Miami Heat,-5
+125891,4,2020-10-09T00:00:00.000Z,Los Angeles Lakers,Miami Heat,-3
+123540,5,2020-09-15T00:00:00.000Z,Boston Celtics,Miami Heat,-3
+121083,4,2020-09-15T00:00:00.000Z,LA Clippers,Denver Nuggets,-15
+124849,4,2020-09-26T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,10
+124850,4,2020-09-27T00:00:00.000Z,Miami Heat,Boston Celtics,12
+124092,4,2020-09-19T00:00:00.000Z,Miami Heat,Boston Celtics,-11
+124847,4,2020-09-24T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,-6
+125890,4,2020-10-06T00:00:00.000Z,Miami Heat,Los Angeles Lakers,-6
+124845,4,2020-09-22T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,8
+124848,4,2020-09-25T00:00:00.000Z,Boston Celtics,Miami Heat,13
+446836,0,2021-07-05T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,0
+436011,4,2021-06-05T00:00:00.000Z,Brooklyn Nets,Milwaukee Bucks,8
+436300,4,2021-06-06T00:00:00.000Z,LA Clippers,Dallas Mavericks,15
+436299,4,2021-06-06T00:00:00.000Z,Philadelphia 76ers,Atlanta Hawks,-4
+446897,4,2021-07-06T00:00:00.000Z,Phoenix Suns,Milwaukee Bucks,13
+422472,4,2021-05-18T00:00:00.000Z,Indiana Pacers,Charlotte Hornets,27
+436732,4,2021-06-07T00:00:00.000Z,Phoenix Suns,Denver Nuggets,17
+447185,4,2021-07-08T00:00:00.000Z,Phoenix Suns,Milwaukee Bucks,10
+422762,4,2021-05-19T00:00:00.000Z,Los Angeles Lakers,Golden State Warriors,3
+447473,4,2021-07-11T00:00:00.000Z,Milwaukee Bucks,Phoenix Suns,20
+422763,4,2021-05-19T00:00:00.000Z,Memphis Grizzlies,San Antonio Spurs,4
+436733,4,2021-06-07T00:00:00.000Z,Brooklyn Nets,Milwaukee Bucks,39
+437308,4,2021-06-08T00:00:00.000Z,Philadelphia 76ers,Atlanta Hawks,16
+447761,4,2021-07-14T00:00:00.000Z,Milwaukee Bucks,Phoenix Suns,6
+423334,4,2021-05-20T00:00:00.000Z,Washington Wizards,Indiana Pacers,27
+448049,4,2021-07-17T00:00:00.000Z,Phoenix Suns,Milwaukee Bucks,-4
+423764,5,2021-05-21T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,-5
+437309,4,2021-06-08T00:00:00.000Z,Utah Jazz,LA Clippers,3
+437880,4,2021-06-09T00:00:00.000Z,Phoenix Suns,Denver Nuggets,25
+448337,4,2021-07-20T00:00:00.000Z,Milwaukee Bucks,Phoenix Suns,7
+424053,4,2021-05-22T00:00:00.000Z,LA Clippers,Dallas Mavericks,-10
+424052,5,2021-05-22T00:00:00.000Z,Milwaukee Bucks,Miami Heat,2
+424055,4,2021-05-22T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,-14
+424054,4,2021-05-22T00:00:00.000Z,Brooklyn Nets,Boston Celtics,11
+424775,4,2021-05-23T00:00:00.000Z,Philadelphia 76ers,Washington Wizards,7
+438309,4,2021-06-10T00:00:00.000Z,Milwaukee Bucks,Brooklyn Nets,3
+438310,4,2021-06-10T00:00:00.000Z,Utah Jazz,LA Clippers,6
+424776,4,2021-05-23T00:00:00.000Z,Utah Jazz,Memphis Grizzlies,-3
+438742,4,2021-06-11T00:00:00.000Z,Denver Nuggets,Phoenix Suns,-14
+424777,4,2021-05-23T00:00:00.000Z,Phoenix Suns,Los Angeles Lakers,9
+438743,4,2021-06-11T00:00:00.000Z,Atlanta Hawks,Philadelphia 76ers,-16
+424778,4,2021-05-23T00:00:00.000Z,New York Knicks,Atlanta Hawks,-2
+439318,4,2021-06-12T00:00:00.000Z,LA Clippers,Utah Jazz,26
+425927,4,2021-05-24T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,19
+439750,4,2021-06-13T00:00:00.000Z,Denver Nuggets,Phoenix Suns,-7
+439749,4,2021-06-13T00:00:00.000Z,Milwaukee Bucks,Brooklyn Nets,11
+425928,4,2021-05-24T00:00:00.000Z,Milwaukee Bucks,Miami Heat,34
+440182,4,2021-06-14T00:00:00.000Z,Atlanta Hawks,Philadelphia 76ers,3
+426789,4,2021-05-25T00:00:00.000Z,Brooklyn Nets,Boston Celtics,22
+426791,4,2021-05-25T00:00:00.000Z,LA Clippers,Dallas Mavericks,-6
+440183,4,2021-06-14T00:00:00.000Z,LA Clippers,Utah Jazz,14
+426790,4,2021-05-25T00:00:00.000Z,Phoenix Suns,Los Angeles Lakers,-7
+440758,4,2021-06-15T00:00:00.000Z,Brooklyn Nets,Milwaukee Bucks,6
+427510,4,2021-05-26T00:00:00.000Z,New York Knicks,Atlanta Hawks,9
+441190,4,2021-06-16T00:00:00.000Z,Utah Jazz,LA Clippers,-8
+441189,4,2021-06-16T00:00:00.000Z,Philadelphia 76ers,Atlanta Hawks,-3
+427511,4,2021-05-26T00:00:00.000Z,Utah Jazz,Memphis Grizzlies,12
+441625,4,2021-06-17T00:00:00.000Z,Milwaukee Bucks,Brooklyn Nets,15
+427512,4,2021-05-26T00:00:00.000Z,Philadelphia 76ers,Washington Wizards,25
+442057,4,2021-06-18T00:00:00.000Z,LA Clippers,Utah Jazz,12
+442056,4,2021-06-18T00:00:00.000Z,Atlanta Hawks,Philadelphia 76ers,-5
+428347,4,2021-05-27T00:00:00.000Z,Portland Trail Blazers,Denver Nuggets,-5
+442489,5,2021-06-19T00:00:00.000Z,Brooklyn Nets,Milwaukee Bucks,-4
+428348,4,2021-05-27T00:00:00.000Z,Los Angeles Lakers,Phoenix Suns,14
+442921,4,2021-06-20T00:00:00.000Z,Philadelphia 76ers,Atlanta Hawks,-7
+442920,4,2021-06-20T00:00:00.000Z,Phoenix Suns,LA Clippers,6
+428349,4,2021-05-27T00:00:00.000Z,Miami Heat,Milwaukee Bucks,-29
+443638,4,2021-06-22T00:00:00.000Z,Phoenix Suns,LA Clippers,1
+429183,4,2021-05-28T00:00:00.000Z,Atlanta Hawks,New York Knicks,11
+443783,4,2021-06-23T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,-3
+429184,4,2021-05-28T00:00:00.000Z,Boston Celtics,Brooklyn Nets,6
+444070,4,2021-06-24T00:00:00.000Z,LA Clippers,Phoenix Suns,14
+429185,4,2021-05-28T00:00:00.000Z,Dallas Mavericks,LA Clippers,-10
+444358,4,2021-06-25T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,34
+430017,4,2021-05-29T00:00:00.000Z,Portland Trail Blazers,Denver Nuggets,20
+430020,4,2021-05-29T00:00:00.000Z,Memphis Grizzlies,Utah Jazz,-10
+444646,4,2021-06-26T00:00:00.000Z,LA Clippers,Phoenix Suns,-4
+430018,4,2021-05-29T00:00:00.000Z,Miami Heat,Milwaukee Bucks,-17
+430019,4,2021-05-29T00:00:00.000Z,Washington Wizards,Philadelphia 76ers,-29
+444934,4,2021-06-27T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,-11
+430990,4,2021-05-30T00:00:00.000Z,Los Angeles Lakers,Phoenix Suns,-8
+445222,4,2021-06-28T00:00:00.000Z,Phoenix Suns,LA Clippers,-14
+430991,4,2021-05-30T00:00:00.000Z,Dallas Mavericks,LA Clippers,-25
+445510,4,2021-06-29T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,22
+430992,4,2021-05-30T00:00:00.000Z,Atlanta Hawks,New York Knicks,17
+445798,4,2021-06-30T00:00:00.000Z,LA Clippers,Phoenix Suns,-27
+430993,4,2021-05-30T00:00:00.000Z,Boston Celtics,Brooklyn Nets,-15
+446086,4,2021-07-01T00:00:00.000Z,Milwaukee Bucks,Atlanta Hawks,11
+432118,4,2021-05-31T00:00:00.000Z,Washington Wizards,Philadelphia 76ers,8
+446517,4,2021-07-03T00:00:00.000Z,Atlanta Hawks,Milwaukee Bucks,-11
+432119,4,2021-05-31T00:00:00.000Z,Memphis Grizzlies,Utah Jazz,-7
+432958,6,2021-06-01T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,7
+432960,4,2021-06-01T00:00:00.000Z,Phoenix Suns,Los Angeles Lakers,30
+432959,4,2021-06-01T00:00:00.000Z,Brooklyn Nets,Boston Celtics,14
+433679,4,2021-06-02T00:00:00.000Z,New York Knicks,Atlanta Hawks,-14
+433680,4,2021-06-02T00:00:00.000Z,Utah Jazz,Memphis Grizzlies,16
+433682,4,2021-06-02T00:00:00.000Z,LA Clippers,Dallas Mavericks,-5
+433681,4,2021-06-02T00:00:00.000Z,Philadelphia 76ers,Washington Wizards,17
+434689,4,2021-06-03T00:00:00.000Z,Los Angeles Lakers,Phoenix Suns,-13
+434688,4,2021-06-03T00:00:00.000Z,Portland Trail Blazers,Denver Nuggets,-11
+435550,4,2021-06-04T00:00:00.000Z,Dallas Mavericks,LA Clippers,-7
+841601,4,2022-04-26T00:00:00.000Z,Miami Heat,Atlanta Hawks,-9
+831951,4,2022-04-16T00:00:00.000Z,Memphis Grizzlies,Minnesota Timberwolves,-13
+831953,4,2022-04-16T00:00:00.000Z,Philadelphia 76ers,Toronto Raptors,20
+831952,4,2022-04-16T00:00:00.000Z,Dallas Mavericks,Utah Jazz,-6
+831954,4,2022-04-16T00:00:00.000Z,Golden State Warriors,Denver Nuggets,16
+830509,4,2022-04-12T00:00:00.000Z,Minnesota Timberwolves,LA Clippers,5
+830510,4,2022-04-12T00:00:00.000Z,Brooklyn Nets,Cleveland Cavaliers,7
+846095,4,2022-05-04T00:00:00.000Z,Phoenix Suns,Dallas Mavericks,20
+836706,4,2022-04-21T00:00:00.000Z,Utah Jazz,Dallas Mavericks,-8
+836705,4,2022-04-21T00:00:00.000Z,Denver Nuggets,Golden State Warriors,-5
+836704,4,2022-04-21T00:00:00.000Z,Minnesota Timberwolves,Memphis Grizzlies,-9
+831661,4,2022-04-15T00:00:00.000Z,LA Clippers,New Orleans Pelicans,-4
+831662,4,2022-04-15T00:00:00.000Z,Cleveland Cavaliers,Atlanta Hawks,-6
+838433,4,2022-04-23T00:00:00.000Z,Utah Jazz,Dallas Mavericks,1
+838434,4,2022-04-23T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,8
+834977,4,2022-04-19T00:00:00.000Z,Memphis Grizzlies,Minnesota Timberwolves,28
+834976,4,2022-04-19T00:00:00.000Z,Miami Heat,Atlanta Hawks,10
+834978,4,2022-04-19T00:00:00.000Z,Phoenix Suns,New Orleans Pelicans,-11
+835841,5,2022-04-20T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,-3
+835842,4,2022-04-20T00:00:00.000Z,Milwaukee Bucks,Chicago Bulls,-4
+830799,4,2022-04-13T00:00:00.000Z,New Orleans Pelicans,San Antonio Spurs,10
+830800,4,2022-04-13T00:00:00.000Z,Atlanta Hawks,Charlotte Hornets,29
+835840,4,2022-04-20T00:00:00.000Z,Boston Celtics,Brooklyn Nets,7
+832820,4,2022-04-17T00:00:00.000Z,Miami Heat,Atlanta Hawks,24
+832817,4,2022-04-17T00:00:00.000Z,Boston Celtics,Brooklyn Nets,1
+832818,4,2022-04-17T00:00:00.000Z,Phoenix Suns,New Orleans Pelicans,11
+832819,4,2022-04-17T00:00:00.000Z,Milwaukee Bucks,Chicago Bulls,7
+838432,4,2022-04-23T00:00:00.000Z,Brooklyn Nets,Boston Celtics,-6
+838435,4,2022-04-23T00:00:00.000Z,Minnesota Timberwolves,Memphis Grizzlies,1
+833971,4,2022-04-18T00:00:00.000Z,Dallas Mavericks,Utah Jazz,6
+833970,4,2022-04-18T00:00:00.000Z,Philadelphia 76ers,Toronto Raptors,15
+833969,4,2022-04-18T00:00:00.000Z,Golden State Warriors,Denver Nuggets,20
+846096,4,2022-05-04T00:00:00.000Z,Miami Heat,Philadelphia 76ers,16
+844943,4,2022-05-02T00:00:00.000Z,Phoenix Suns,Dallas Mavericks,7
+840593,4,2022-04-25T00:00:00.000Z,Philadelphia 76ers,Toronto Raptors,-15
+840594,4,2022-04-25T00:00:00.000Z,Brooklyn Nets,Boston Celtics,-4
+840595,4,2022-04-25T00:00:00.000Z,Dallas Mavericks,Utah Jazz,25
+844944,4,2022-05-02T00:00:00.000Z,Miami Heat,Philadelphia 76ers,14
+837569,4,2022-04-22T00:00:00.000Z,Atlanta Hawks,Miami Heat,1
+837568,4,2022-04-22T00:00:00.000Z,New Orleans Pelicans,Phoenix Suns,-3
+837570,4,2022-04-22T00:00:00.000Z,Chicago Bulls,Milwaukee Bucks,-30
+842465,4,2022-04-27T00:00:00.000Z,Milwaukee Bucks,Chicago Bulls,16
+842464,4,2022-04-27T00:00:00.000Z,Golden State Warriors,Denver Nuggets,4
+843904,4,2022-04-29T00:00:00.000Z,Minnesota Timberwolves,Memphis Grizzlies,-8
+843183,4,2022-04-28T00:00:00.000Z,New Orleans Pelicans,Phoenix Suns,-6
+841602,4,2022-04-26T00:00:00.000Z,Memphis Grizzlies,Minnesota Timberwolves,2
+843184,4,2022-04-28T00:00:00.000Z,Toronto Raptors,Philadelphia 76ers,-35
+843185,4,2022-04-28T00:00:00.000Z,Utah Jazz,Dallas Mavericks,-2
+839443,4,2022-04-24T00:00:00.000Z,Chicago Bulls,Milwaukee Bucks,-24
+839442,4,2022-04-24T00:00:00.000Z,Denver Nuggets,Golden State Warriors,5
+839441,4,2022-04-24T00:00:00.000Z,New Orleans Pelicans,Phoenix Suns,15
+839444,4,2022-04-24T00:00:00.000Z,Atlanta Hawks,Miami Heat,-24
+841600,4,2022-04-26T00:00:00.000Z,Phoenix Suns,New Orleans Pelicans,15
+844653,4,2022-05-01T00:00:00.000Z,Memphis Grizzlies,Golden State Warriors,-1
+844654,4,2022-05-01T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,-12
+845519,4,2022-05-03T00:00:00.000Z,Memphis Grizzlies,Golden State Warriors,5
+845520,4,2022-05-03T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,23
+846955,4,2022-05-06T00:00:00.000Z,Dallas Mavericks,Phoenix Suns,9
+850125,4,2022-05-12T00:00:00.000Z,Dallas Mavericks,Phoenix Suns,27
+847245,4,2022-05-07T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,30
+847246,4,2022-05-07T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,2
+850126,4,2022-05-12T00:00:00.000Z,Philadelphia 76ers,Miami Heat,-9
+848973,4,2022-05-10T00:00:00.000Z,Phoenix Suns,Dallas Mavericks,30
+848974,4,2022-05-10T00:00:00.000Z,Miami Heat,Philadelphia 76ers,35
+854876,4,2022-05-27T00:00:00.000Z,Boston Celtics,Miami Heat,-8
+855883,4,2022-06-05T00:00:00.000Z,Golden State Warriors,Boston Celtics,19
+853436,4,2022-05-22T00:00:00.000Z,Dallas Mavericks,Golden State Warriors,-9
+846956,4,2022-05-06T00:00:00.000Z,Philadelphia 76ers,Miami Heat,20
+854300,4,2022-05-25T00:00:00.000Z,Miami Heat,Boston Celtics,-13
+855595,4,2022-06-02T00:00:00.000Z,Golden State Warriors,Boston Celtics,-12
+852139,4,2022-05-17T00:00:00.000Z,Miami Heat,Boston Celtics,11
+851564,4,2022-05-15T00:00:00.000Z,Phoenix Suns,Dallas Mavericks,-33
+851563,4,2022-05-15T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,28
+849550,4,2022-05-11T00:00:00.000Z,Boston Celtics,Milwaukee Bucks,-3
+849549,4,2022-05-11T00:00:00.000Z,Memphis Grizzlies,Golden State Warriors,39
+852284,4,2022-05-18T00:00:00.000Z,Golden State Warriors,Dallas Mavericks,25
+853724,4,2022-05-23T00:00:00.000Z,Boston Celtics,Miami Heat,20
+852572,4,2022-05-19T00:00:00.000Z,Miami Heat,Boston Celtics,-25
+850701,4,2022-05-13T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,14
+850702,4,2022-05-13T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,-13
+848398,4,2022-05-09T00:00:00.000Z,Golden State Warriors,Memphis Grizzlies,3
+848397,4,2022-05-09T00:00:00.000Z,Milwaukee Bucks,Boston Celtics,-8
+847822,4,2022-05-08T00:00:00.000Z,Philadelphia 76ers,Miami Heat,8
+847821,4,2022-05-08T00:00:00.000Z,Dallas Mavericks,Phoenix Suns,10
+852860,4,2022-05-20T00:00:00.000Z,Golden State Warriors,Dallas Mavericks,9
+855307,4,2022-05-29T00:00:00.000Z,Miami Heat,Boston Celtics,-4
+853148,4,2022-05-21T00:00:00.000Z,Boston Celtics,Miami Heat,-6
+854588,4,2022-05-26T00:00:00.000Z,Golden State Warriors,Dallas Mavericks,10
+854012,4,2022-05-24T00:00:00.000Z,Dallas Mavericks,Golden State Warriors,10
+856459,4,2022-06-10T00:00:00.000Z,Boston Celtics,Golden State Warriors,-10
+856779,4,2022-06-13T00:00:00.000Z,Golden State Warriors,Boston Celtics,20
+856171,4,2022-06-08T00:00:00.000Z,Boston Celtics,Golden State Warriors,16
+857067,4,2022-06-16T00:00:00.000Z,Boston Celtics,Golden State Warriors,-13
+890554,4,2023-04-15T00:00:00.000Z,Philadelphia 76ers,Brooklyn Nets,20
+890555,4,2023-04-15T00:00:00.000Z,Cleveland Cavaliers,New York Knicks,-4
+890556,4,2023-04-15T00:00:00.000Z,Sacramento Kings,Golden State Warriors,3
+890557,4,2023-04-16T00:00:00.000Z,Phoenix Suns,LA Clippers,-5
+891700,4,2023-04-15T00:00:00.000Z,Boston Celtics,Atlanta Hawks,13
+891774,4,2023-04-16T00:00:00.000Z,Memphis Grizzlies,Los Angeles Lakers,-16
+892493,4,2023-04-17T00:00:00.000Z,Philadelphia 76ers,Brooklyn Nets,12
+892494,4,2023-04-17T00:00:00.000Z,Sacramento Kings,Golden State Warriors,8
+892495,4,2023-04-18T00:00:00.000Z,Boston Celtics,Atlanta Hawks,13
+892496,4,2023-04-18T00:00:00.000Z,Cleveland Cavaliers,New York Knicks,17
+890548,4,2020-09-18T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,12
+890549,4,2019-04-29T00:00:00.000Z,Denver Nuggets,Portland Trail Blazers,8
+892497,4,2023-04-18T00:00:00.000Z,Phoenix Suns,LA Clippers,14
+892498,4,2023-04-19T00:00:00.000Z,Memphis Grizzlies,Los Angeles Lakers,10
+892499,4,2023-04-20T00:00:00.000Z,Brooklyn Nets,Philadelphia 76ers,-5
+892500,4,2023-04-20T00:00:00.000Z,Golden State Warriors,Sacramento Kings,17
+892501,4,2023-04-20T00:00:00.000Z,LA Clippers,Phoenix Suns,-5
+892502,4,2023-04-21T00:00:00.000Z,Atlanta Hawks,Boston Celtics,8
+892503,4,2023-04-21T00:00:00.000Z,New York Knicks,Cleveland Cavaliers,20
+892504,4,2023-04-22T00:00:00.000Z,Brooklyn Nets,Philadelphia 76ers,-8
+892505,4,2023-04-22T00:00:00.000Z,Los Angeles Lakers,Memphis Grizzlies,10
+892506,4,2023-04-22T00:00:00.000Z,LA Clippers,Phoenix Suns,-12
+892507,4,2023-04-23T00:00:00.000Z,Atlanta Hawks,Boston Celtics,-8
+892508,4,2023-04-23T00:00:00.000Z,New York Knicks,Cleveland Cavaliers,9
+892509,4,2023-04-23T00:00:00.000Z,Golden State Warriors,Sacramento Kings,1
+892511,5,2023-04-24T00:00:00.000Z,Los Angeles Lakers,Memphis Grizzlies,6
+892512,4,2023-04-25T00:00:00.000Z,Boston Celtics,Atlanta Hawks,-2
+892513,4,2023-04-25T00:00:00.000Z,Phoenix Suns,LA Clippers,6
+892514,4,2023-04-26T00:00:00.000Z,Cleveland Cavaliers,New York Knicks,-11
+892515,4,2023-04-26T00:00:00.000Z,Memphis Grizzlies,Los Angeles Lakers,17
+892516,4,2023-04-26T00:00:00.000Z,Sacramento Kings,Golden State Warriors,-7
+892517,4,2023-04-27T00:00:00.000Z,Atlanta Hawks,Boston Celtics,-8
+892528,4,2023-04-30T00:00:00.000Z,Sacramento Kings,Golden State Warriors,-20
+906726,4,2023-04-16T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-13
+906734,4,2023-04-19T00:00:00.000Z,Milwaukee Bucks,Miami Heat,16
+906741,4,2023-04-22T00:00:00.000Z,Miami Heat,Milwaukee Bucks,22
+906748,4,2023-04-24T00:00:00.000Z,Miami Heat,Milwaukee Bucks,5
+906753,5,2023-04-26T00:00:00.000Z,Milwaukee Bucks,Miami Heat,-2
+907511,4,2023-04-16T00:00:00.000Z,Denver Nuggets,Minnesota Timberwolves,29
+907520,4,2023-04-19T00:00:00.000Z,Denver Nuggets,Minnesota Timberwolves,9
+907527,4,2023-04-21T00:00:00.000Z,Minnesota Timberwolves,Denver Nuggets,-9
+907534,5,2023-04-23T00:00:00.000Z,Minnesota Timberwolves,Denver Nuggets,6
+907540,4,2023-04-25T00:00:00.000Z,Denver Nuggets,Minnesota Timberwolves,3
+892521,4,2023-04-28T00:00:00.000Z,Los Angeles Lakers,Memphis Grizzlies,40
+892522,4,2023-04-28T00:00:00.000Z,Golden State Warriors,Sacramento Kings,-19
+972853,4,2023-05-01T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,-4
+972856,4,2023-05-03T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,34
+972857,4,2023-05-05T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,-12
+970431,4,2023-04-30T00:00:00.000Z,New York Knicks,Miami Heat,-7
+970433,4,2023-05-02T00:00:00.000Z,New York Knicks,Miami Heat,6
+970435,4,2023-05-06T00:00:00.000Z,Miami Heat,New York Knicks,19
+972860,5,2023-05-07T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,1
+970437,4,2023-05-08T00:00:00.000Z,Miami Heat,New York Knicks,8
+970439,4,2023-05-10T00:00:00.000Z,New York Knicks,Miami Heat,9
+970441,4,2023-05-12T00:00:00.000Z,Miami Heat,New York Knicks,4
+972863,4,2023-05-09T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,-12
+972866,4,2023-05-11T00:00:00.000Z,Philadelphia 76ers,Boston Celtics,-9
+967800,4,2023-04-29T00:00:00.000Z,Denver Nuggets,Phoenix Suns,18
+967805,4,2023-05-01T00:00:00.000Z,Denver Nuggets,Phoenix Suns,10
+967806,4,2023-05-05T00:00:00.000Z,Phoenix Suns,Denver Nuggets,7
+967807,4,2023-05-07T00:00:00.000Z,Phoenix Suns,Denver Nuggets,5
+967808,4,2023-05-09T00:00:00.000Z,Denver Nuggets,Phoenix Suns,16
+967809,4,2023-05-11T00:00:00.000Z,Phoenix Suns,Denver Nuggets,-25
+972869,4,2023-05-14T00:00:00.000Z,Boston Celtics,Philadelphia 76ers,24
+1011165,4,2023-06-01T00:00:00.000Z,Denver Nuggets,Miami Heat,11
+1011166,4,2023-06-04T00:00:00.000Z,Denver Nuggets,Miami Heat,-3
+1011167,4,2023-06-07T00:00:00.000Z,Miami Heat,Denver Nuggets,-15
+1011168,4,2023-06-09T00:00:00.000Z,Miami Heat,Denver Nuggets,-13
+1011169,0,2023-06-12T00:00:00.000Z,Denver Nuggets,Miami Heat,0
+1011170,0,2023-06-15T00:00:00.000Z,Miami Heat,Denver Nuggets,0
+1011171,0,2023-06-18T00:00:00.000Z,Denver Nuggets,Miami Heat,0
+981609,4,2023-05-02T00:00:00.000Z,Golden State Warriors,Los Angeles Lakers,-5
+981611,4,2023-05-04T00:00:00.000Z,Golden State Warriors,Los Angeles Lakers,27
+981615,4,2023-05-06T00:00:00.000Z,Los Angeles Lakers,Golden State Warriors,30
+981619,4,2023-05-08T00:00:00.000Z,Los Angeles Lakers,Golden State Warriors,3
+981623,4,2023-05-10T00:00:00.000Z,Golden State Warriors,Los Angeles Lakers,15
+981627,4,2023-05-12T00:00:00.000Z,Los Angeles Lakers,Golden State Warriors,21
+1007815,4,2023-05-16T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,6
+1007816,4,2023-05-17T00:00:00.000Z,Boston Celtics,Miami Heat,-7
+1007817,4,2023-05-18T00:00:00.000Z,Denver Nuggets,Los Angeles Lakers,5
+1007818,4,2023-05-19T00:00:00.000Z,Boston Celtics,Miami Heat,-6
+1007819,4,2023-05-20T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,-11
+1007820,4,2023-05-21T00:00:00.000Z,Miami Heat,Boston Celtics,26
+1007821,4,2023-05-22T00:00:00.000Z,Los Angeles Lakers,Denver Nuggets,-2
+1007822,4,2023-05-23T00:00:00.000Z,Miami Heat,Boston Celtics,-17
+1007824,4,2023-05-25T00:00:00.000Z,Boston Celtics,Miami Heat,13
+1007826,4,2023-05-27T00:00:00.000Z,Miami Heat,Boston Celtics,-1
+1007828,4,2023-05-29T00:00:00.000Z,Boston Celtics,Miami Heat,-19

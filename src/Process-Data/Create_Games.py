@@ -8,9 +8,7 @@ from tqdm import tqdm
 sys.path.insert(1, os.path.join(sys.path[0], '..'))
 from Utils.Dictionaries import team_index_07, team_index_08, team_index_12, team_index_13, team_index_14, team_index_current
 
-# season_array = ["2007-08", "2008-09", "2009-10", "2010-11", "2011-12", "2012-13", "2013-14", "2014-15", "2015-16",
-#                 "2016-17", "2017-18", "2018-19", "2019-20", "2020-21", "2021-22", "2022-23"]
-season_array = ["2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18", "2018-19", "2019-20", "2020-21", "2021-22", "2022-23"]
+season_array = ["2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18", "2018-19", "2019-20", "2020-21", "2021-22", "2022-23", "Playoffs_2012-13", "Playoffs_2013-14", "Playoffs_2014-15", "Playoffs_2015-16", "Playoffs_2016-17", "Playoffs_2017-18", "Playoffs_2018-19", "Playoffs_2019-20", "Playoffs_2020-21", "Playoffs_2021-22", "NBA_Finals_2012-13", "NBA_Finals_2013-14", "NBA_Finals_2014-15", "NBA_Finals_2015-16", "NBA_Finals_2016-17", "NBA_Finals_2017-18", "NBA_Finals_2018-19", "NBA_Finals_2019-20", "NBA_Finals_2020-21", "NBA_Finals_2021-22"]
 
 df = pd.DataFrame
 scores = []

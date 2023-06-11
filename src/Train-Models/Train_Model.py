@@ -12,8 +12,9 @@ earlyStopping = EarlyStopping(monitor='val_loss', patience=10, verbose=0, mode='
 mcp_save = ModelCheckpoint('../../Models/Trained-Model-ML-' + current_time, save_best_only=True, monitor='val_loss', mode='min')
 
 dataset = "dataset_2012-23"
+
 con = sqlite3.connect("../../Data/dataset.sqlite")
-data = pd.read_sql_query(f"select * from \"{dataset}\"", con, index_col="index")
+data = pd.read_sql_query(f"SELECT * FROM \"{dataset}\"", con, index_col="index")
 con.close()
 
 scores = data['Score']
